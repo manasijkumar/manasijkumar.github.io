@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>plot on Manasi Jayakumar</title>
+    <link>/&#39;http://example.org/&#39;/tags/plot/</link>
+    <description>Recent content in plot on Manasi Jayakumar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/'http://example.org/'/tags/plot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/&#39;http://example.org/&#39;/post/home/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/&#39;http://example.org/&#39;/post/home/</guid>
+      <description>About MeI am Manasi Jayakumar, a 4th year PhD Student at Columbia University.
+</description>
+    </item>
+    
+  </channel>
+</rss>
