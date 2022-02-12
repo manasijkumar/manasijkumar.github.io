@@ -1,0 +1,15 @@
+theme = "hyde"
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Manasi Jayakumar'
+
+[Menus]
+  main = [
+      {Name = "Twitter", URL = "https://twitter.com/manasijkumar/"},
+      {Name = "Github", URL = "https://github.com/manasijkumar/"}
+  ]
+  
+[params]
+  description = "Cognitive Neuroscientist"
+  #themeColor = "theme-base-0d"
+  layoutReverse = true
