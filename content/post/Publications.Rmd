@@ -1,5 +1,5 @@
 ---
-title: "About Me"
+title: "Publications"
 author: "Frida Gomam"
 date: 2015-07-23T21:13:14-05:00
 categories: ["R"]
@@ -10,6 +10,12 @@ tags: ["R Markdown", "plot", "regression"]
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-# About Me
+# Publications
 
-I am Manasi Jayakumar, a 4th year PhD Student at Columbia University. 
+## In-prep
+
+## Preprints
+
+## Published
+
+# Conference presentations
