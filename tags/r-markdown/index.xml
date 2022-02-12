@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R Markdown on Manasi Jayakumar</title>
-    <link>/&#39;http://example.org/&#39;/tags/r-markdown/</link>
+    <link>/&#39;https://manasijkumar.github.io/&#39;/tags/r-markdown/</link>
     <description>Recent content in R Markdown on Manasi Jayakumar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/'http://example.org/'/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/'https://manasijkumar.github.io/'/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>/&#39;http://example.org/&#39;/post/home/</link>
+      <link>/&#39;https://manasijkumar.github.io/&#39;/post/home/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/&#39;http://example.org/&#39;/post/home/</guid>
+      <guid>/&#39;https://manasijkumar.github.io/&#39;/post/home/</guid>
       <description>About MeI am Manasi Jayakumar, a 4th year PhD Student at Columbia University.
 </description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/&#39;http://example.org/&#39;/post/publications/</link>
+      <link>/&#39;https://manasijkumar.github.io/&#39;/post/publications/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/&#39;http://example.org/&#39;/post/publications/</guid>
+      <guid>/&#39;https://manasijkumar.github.io/&#39;/post/publications/</guid>
       <description>PublicationsIn-prepPreprintsPublishedConference presentations</description>
     </item>
     
