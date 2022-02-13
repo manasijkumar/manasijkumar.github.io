@@ -4,11 +4,12 @@ title = 'Manasi Jayakumar'
 
 [Menus]
   main = [
-      {Name = "Twitter", URL = "https://twitter.com/manasijkumar/"},
-      {Name = "Github", URL = "https://github.com/manasijkumar/"}
+      {Name = "About me", URL = "/about/", weight = 1},
+      {Name = "Publications", URL = "/publications/", weight = 2},
+      {Name = "Twitter", URL = "https://twitter.com/manasijkumar/", weight = 3},
+      {Name = "Github", URL = "https://github.com/manasijkumar/", weight = 4}
   ]
   
 [params]
   description = "Cognitive Neuroscientist"
-  #themeColor = "theme-base-0d"
   layoutReverse = true
