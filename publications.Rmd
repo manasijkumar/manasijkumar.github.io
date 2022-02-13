@@ -1,0 +1,11 @@
+---
+title: Publications
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+## List of publications
+
+## Conference presentations
