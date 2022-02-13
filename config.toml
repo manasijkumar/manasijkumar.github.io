@@ -4,7 +4,7 @@ title = 'Manasi Jayakumar'
 
 [Menus]
   main = [
-      {Name = "About me", URL = "/about/", weight = 1},
+      {Name = "About Me", URL = "/about/", weight = 1},
       {Name = "Publications", URL = "/publications/", weight = 2},
       {Name = "Twitter", URL = "https://twitter.com/manasijkumar/", weight = 3},
       {Name = "Github", URL = "https://github.com/manasijkumar/", weight = 4}

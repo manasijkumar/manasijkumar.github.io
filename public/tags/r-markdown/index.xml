@@ -1,30 +1,0 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>R Markdown on Manasi Jayakumar</title>
-    <link>/tags/r-markdown/</link>
-    <description>Recent content in R Markdown on Manasi Jayakumar</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About Me</title>
-      <link>/post/home/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/home/</guid>
-      <description>About MeI am Manasi Jayakumar, a 4th year PhD Student at Columbia University.
-</description>
-    </item>
-    
-    <item>
-      <title>Publications</title>
-      <link>/post/publications/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/publications/</guid>
-      <description>PublicationsIn-prepPreprintsPublishedConference presentations</description>
-    </item>
-    
-  </channel>
-</rss>

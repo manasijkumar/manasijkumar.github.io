@@ -5,25 +5,25 @@
     <link>/</link>
     <description>Recent content on Manasi Jayakumar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Me</title>
-      <link>/post/home/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/home/</guid>
-      <description>About MeI am Manasi Jayakumar, a 4th year PhD Student at Columbia University.
-</description>
+      <guid>/about/</guid>
+      <description>Hello! I’m Manasi Jayakumar.
+I am a 4th year graduate student in the Department of Psychology at Columbia University, working with Dr. Mariam Aly. Broadly my research focus is on the interaction between attention and memory, and the neural mechanisms underlying these interactions. My current project examines the relationship between spontaneous attentional fluctuations and the temporal organization of memory.
+I am originally from Chennai, India, but I grew up in Dubai, U.</description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>/post/publications/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/post/publications/</guid>
-      <description>PublicationsIn-prepPreprintsPublishedConference presentations</description>
+      <guid>/publications/</guid>
+      <description>List of publicationsConference presentations</description>
     </item>
     
   </channel>
