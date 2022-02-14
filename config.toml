@@ -6,10 +6,17 @@ title = 'Manasi Jayakumar'
   main = [
       {Name = "About Me", URL = "/about/", weight = 1},
       {Name = "Publications", URL = "/publications/", weight = 2},
-      {Name = "Twitter", URL = "https://twitter.com/manasijkumar/", weight = 3},
-      {Name = "Github", URL = "https://github.com/manasijkumar/", weight = 4}
+      {Name = "Resources for grad students", URL = "/resources/", weight = 3},
   ]
-  
+  social = [
+      {Name = "ai ai-cv-square ai-2x", URL = "https://twitter.com/manasijkumar",  weight = 1},
+      {Name = "fa-brands fa-orcid fa-2x space-around-icon", URL = "https://twitter.com/manasijkumar",  weight = 2},
+      
+      {Name = "fa-brands fa-twitter-square fa-2x", URL = "https://twitter.com/manasijkumar",  weight = 3},
+      {Name = "fa-brands fa-github-square fa-2x", URL = "https://twitter.com/manasijkumar",  weight = 4},
+      {Name = "ai ai-google-scholar-square ai-2x", URL = "https://twitter.com/manasijkumar",  weight = 5},
+  ]
+
 [params]
   description = "Cognitive Neuroscientist"
   layoutReverse = true
