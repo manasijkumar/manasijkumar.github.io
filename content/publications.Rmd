@@ -6,6 +6,30 @@ title: Publications
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-## List of publications
+### Preprints
 
-## Conference presentations
+**Jayakumar, M.**, Balusu, C., Aly, M. (2022). Attentional fluctuations and the temporal organization of memory. [PsyArXiv](https://psyarxiv.com/j32bn){target="_blank"}. [[PDF](/pubs/Jayakumar_Manasi_attFluxMem_2022.pdf){target="_blank"}].
+
+
+### Published Manuscripts 
+
+Trelle, A. N., Carr, V. A., Wilson, E. N., Swarovski, M. S., Hunt, M. P., Toueg, T. N., Tran, T.T., Channappa, D., Corso, N. K., Thieu, M. K., **Jayakumar, M.**, Nadiadwala, A., Guo, W., Tanner, N. J., Bernstein, J. D., Litovsky, C.P., Guerin, S. A., Guerin, S. A., Harrison, M. B., Rutt, B. K., Deutsch, G. K., Chin, F.T., Davidzon, G.A., Hall, J.N., Sha, S. J., Fredericks, C. A., Andreasson, K.I., Kerchner, G. A., Wagner, A. D., Mormino, E. C. (2021). Association of CSF biomarkers with hippocampal-dependent memory in preclinical Alzheimer disease. Neurology, 96(10), e1470-e1481. [[PDF](/pubs/SAMS_Neurology-2021.pdf){target="_blank"}].
+
+
+Trelle, A. N., Carr, V. A., Guerin, S. A., Thieu, M. K., **Jayakumar, M.**, Guo, W., Nadiadwala, A., Corso, N. K., Hunt, M. P., Litovsky, C. P., Tanner, N. J., Deutsch, G. K., Bernstein, J. D., Harrison, M. B., Khazenzon, A. M., Jiang, J., Sha, S. J., Fredericks, C. A., Rutt, B. K., Mormino, E. C., Kerchner, G. A., Wagner, A. D. (2020). Hippocampal and cortical mechanisms at retrieval explain variability in episodic remembering in older adults. ELife, 9, e55335. [[PDF](/pubs/SAMS_eLife-2020.pdf){target="_blank"}].
+
+**Jayakumar, M.\***, Tarder-Stoll, H.\*, Dimsdale-Zucker, H.R., Günseli, E., & Aly, M. (2019). Dynamic internal states shape memory retrieval. Neuropsychologia, 138, 107328. [[PDF](/pubs/Jayakumar_Tarder-Stoll_etal-2020.pdf){target="_blank"}].
+*denotes equal contribution
+
+---
+
+## Selected Conference Presentations
+For a complete list of conference presentations, please see my CV from the sidebar! 
+
+**Jayakumar, M.**, Balusu, C., Aly, M. (2021, August). Spontaneous attentional fluctuations and the temporal organization of recall. Poster presented at the Context and Episodic Memory Symposium, Philadelphia, PA. [[PDF](/pubs/Jayakumar_M_CEMS2021-poster.pdf){target="_blank"}].
+
+**Jayakumar, M.**, Balusu, C., Aly, M. (2021, March). Spontaneous attentional fluctuations and the temporal organization of recall. Poster presented at the Cognitive Neuroscience Society virtual meeting. [[PDF](/pubs/Jayakumar_M_CNS2021-poster.pdf){target="_blank"}]. [[Video of presentation](https://www.youtube.com/watch?v=8aDIXVwJIVM&t=1s){target="_blank"}].
+
+**Jayakumar, M.**, de Chastelaine, M., Donley, B.E., Kennedy K., Rugg, M.D. (2016, November).  Relationship between episodic memory performance, fMRI correlates of encoding and retrieval and estimates of regional brain structure in older adults. Poster presented at the Society for Neuroscience meeting. San Diego, CA. [[PDF](/pubs/Jayakumar_M_SfN2016-poster.pdf){target="_blank"}].
+
+---
