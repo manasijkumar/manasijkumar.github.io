@@ -9,12 +9,12 @@ title = 'Manasi Jayakumar'
       {Name = "Resources for grad students", URL = "/resources/", weight = 3},
   ]
   social = [
-      {Name = "ai ai-cv-square ai-2x", URL = "https://twitter.com/manasijkumar",  weight = 1},
-      {Name = "fa-brands fa-orcid fa-2x space-around-icon", URL = "https://twitter.com/manasijkumar",  weight = 2},
+      {Name = "ai ai-cv-square ai-2x", URL = "/files/manasi_jayakumar_cv.pdf",  weight = 1},
+      {Name = "fa-brands fa-orcid fa-2x space-around-icon", URL = "https://orcid.org/",  weight = 2},
       
       {Name = "fa-brands fa-twitter-square fa-2x", URL = "https://twitter.com/manasijkumar",  weight = 3},
-      {Name = "fa-brands fa-github-square fa-2x", URL = "https://twitter.com/manasijkumar",  weight = 4},
-      {Name = "ai ai-google-scholar-square ai-2x", URL = "https://twitter.com/manasijkumar",  weight = 5},
+      {Name = "fa-brands fa-github-square fa-2x", URL = "https://github.com/manasijkumar",  weight = 4},
+      {Name = "ai ai-google-scholar-square ai-2x", URL = "https://scholar.google.com/citations?user=NdH11boAAAAJ&hl=en",  weight = 5},
   ]
 
 [params]
