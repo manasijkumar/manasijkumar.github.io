@@ -1,18 +1,14 @@
 {{ define "main" -}}
-<!-- <div class="posts">
-{{ range .Site.RegularPages -}}
-<article class="post">
-  <h1 class="post-title">
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-  </h1>
-  <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z0700" }}" class="post-date">{{ .Date.Format "Mon, Jan 2, 2006" }}</time>
-  {{ .Summary }}
-  {{ if .Truncated }}
-  <div class="read-more-link">
-    <a href="{{ .RelPermalink }}">Read More…</a>
-  </div>
-  {{ end }}
-</article>
-{{- end }}
-</div> -->
+  <main aria-role="main">
+    <header class="homepage-header">
+      <h1>{{.Title}}</h1>
+      {{ with .Params.subtitle }}
+      <span class="subtitle">{{.}}</span>
+      {{ end }}
+    </header>
+    <div class="homepage-content">
+      <!-- Note that the content for index.html, as a sort of list page, will pull from content/_index.md -->
+      {{.Content}}
+    </div>
+  </main>
 {{- end }}
