@@ -58,3 +58,7 @@ a.sidebar-nav-item:focus {
     text-align: center;
   }
 }
+
+.portrait {
+  width: 50%;
+}
