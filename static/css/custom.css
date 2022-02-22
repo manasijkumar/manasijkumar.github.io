@@ -61,4 +61,19 @@ a.sidebar-nav-item:focus {
 
 .portrait > img {
   width: 50%;
+  display: inline;
+  display: block;
+  margin-left: auto;  
+  margin-right: auto;  
+  padding: 5px;  
+}
+
+.homepage-content {
+  text-align: justify;
+  margin-right: 0;
+
+}
+
+.hompage-header .title{
+  text-align: center;
 }

@@ -21,6 +21,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   description = "Cognitive Neuroscientist"
   layoutReverse = true
-  
-[markup.goldmark.renderer]
-  unsafe= true
