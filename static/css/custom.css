@@ -59,6 +59,6 @@ a.sidebar-nav-item:focus {
   }
 }
 
-.portrait {
+.portrait > img {
   width: 50%;
 }
