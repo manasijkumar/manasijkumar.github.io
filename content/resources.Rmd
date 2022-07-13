@@ -37,13 +37,10 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 - [Reinforcement Learning resource guide](https://github.com/rmgeddert/Reinforcement-Learning-Resource-Guide/blob/master/RLResourceGuide.md){target="_blank"}
 
-#### Running experiments online
-
-
 #### Eyetracking and pupilometry
 
-- Gaze R[Github](https://github.com/dmirman/gazer){target="_blank"} [Paper](https://link.springer.com/article/10.3758/s13428-020-01374-8){target="_blank"} [Pre-print](https://psyarxiv.com/4qwr8){target="_blank"} [Video tutorial](https://www.youtube.com/watch?v=EaGQD4ib5zI){target="_blank"}
 - [Basic preprocessing of pupil data](https://cran.r-project.org/web/packages/PupilPre/vignettes/PupilPre_Basic_Preprocessing.html){target="_blank"}
+- Gaze R: [Github](https://github.com/dmirman/gazer){target="_blank"} | [Paper](https://link.springer.com/article/10.3758/s13428-020-01374-8){target="_blank"}| [Pre-print](https://psyarxiv.com/4qwr8){target="_blank"} | [Video tutorial](https://www.youtube.com/watch?v=EaGQD4ib5zI){target="_blank"}
 - [PyGaze](http://www.pygaze.org/){target="_blank"}
 - [Webgazer](https://webgazer.cs.brown.edu/#publication){target="_blank"}
 
@@ -52,9 +49,10 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 - [SIPPS workshops on research skills](https://columbia-sipps.github.io/workshops2021/research_skills/){target="_blank"}
 - [SIPPS workshops on professional development](https://columbia-sipps.github.io/workshops2021/development/){target="_blank"}
-- [How to undertake a literature review](http://www.raulpacheco.org/2017/04/how-to-undertake-a-literature-review/){target="_blank"}
 - [Purdue OWL APA 7 guide](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/general_format.html){target="_blank"}
+- [How to undertake a literature review](http://www.raulpacheco.org/2017/04/how-to-undertake-a-literature-review/){target="_blank"}
 - [Connected papers](https://www.connectedpapers.com/){target="_blank"}
+- [Research rabbit](https://www.researchrabbit.ai/){target="_blank"}
 
 #### Other lists of lists
 - [List of tools and resources for your PhD](https://github.com/helenahartmann/awesome-PhD){target="_blank"} (also links to other curated links!)
@@ -71,13 +69,13 @@ knitr::opts_chunk$set(collapse = TRUE)
 - [List of female-identifying neuroscientists](https://anneslist.net/){target="_blank"}
 - [Spark Society](https://www.sparksociety.org/){target="_blank"}
 - [Spark Scholars of Color Database](https://docs.google.com/spreadsheets/d/1188aq_e2FXv7qvbkrmlT3-OUT47JKU2UjY2FFt1_Y24/edit?fbclid=IwAR2TcnXFuRXAW1Iyy61drRdw9cM5vgzCM3Unb17pWXQxhJsJfblIIMwTO9w#gid=0){target="_blank"}
-- South Asian Psychology and Neuroscience Association (SAPNA)[Website](https://sites.google.com/view/southasianpsychneuro/home){target="_blank"} [Member Database](https://docs.google.com/spreadsheets/d/13Hu9Cjc_SLzqPvD8xcZEFSVT5cgkLrgzdrJOGRLh7XM/edit#gid=0){target="_blank"}
+- South Asian Psychology and Neuroscience Association (SAPNA): [Website](https://sites.google.com/view/southasianpsychneuro/home){target="_blank"} | [Member Database](https://docs.google.com/spreadsheets/d/13Hu9Cjc_SLzqPvD8xcZEFSVT5cgkLrgzdrJOGRLh7XM/edit#gid=0){target="_blank"}
 
 
 ### Academia, grad school, and the hidden curriculum
 
 - [PhD Stipends Database](https://www.phdstipends.com/){target="_blank"}
-Growing up in Science [Events page](https://www.cns.nyu.edu/events/growingupinscience/){target="_blank"}[Youtube channel](https://www.youtube.com/channel/UCgIzTiEODRtQWX6zEu_Y3fA/featured){target="_blank"}
+- Growing up in Science: [Events page](https://www.cns.nyu.edu/events/growingupinscience/){target="_blank"} | [Youtube channel](https://www.youtube.com/channel/UCgIzTiEODRtQWX6zEu_Y3fA/featured){target="_blank"}
 - [Another list of resources about academia and the hidden curriculum](https://www.cns.nyu.edu/events/growingupinscience/resources.html){target="_blank"}
 
 #### Advice for grad students
@@ -89,7 +87,7 @@ Growing up in Science [Events page](https://www.cns.nyu.edu/events/growingupinsc
 - [An unofficial guidebook for PhD](https://static1.squarespace.com/static/55c143d9e4b0cb07521c6d17/t/5b4f409f575d1ff83c2f12d8/1531920545061/PhDGuidebook.pdf){target="_blank"}
 - [Grad school productivity mega thread on twitter](https://twitter.com/EmanuelAviv/status/1449774083495931919){target="_blank"}
 - [PhD & Productivity Youtube Channel](https://www.youtube.com/c/PhDandProductivity){target="_blank"}
-- PhD Balance [Website](https://www.phdbalance.com/){target="_blank"} [Youtube channel](https://www.youtube.com/channel/UCI1kMS6Sm61xJAJCGqp6Pqw){target="_blank"}
+- PhD Balance: [Website](https://www.phdbalance.com/){target="_blank"} | [Youtube channel](https://www.youtube.com/channel/UCI1kMS6Sm61xJAJCGqp6Pqw){target="_blank"}
 - [PhD Coffee Time Youtube channel](https://www.youtube.com/c/PhDCoffeeTime){target="_blank"}
 - [Productivity in PhD life](https://phdblog.jacquietran.com/2015/06/08/productivity-in-phd-life/){target="_blank"}
 - [Psych Research List](https://www.psychresearchlist.com/){target="_blank"}
@@ -126,17 +124,17 @@ Growing up in Science [Events page](https://www.cns.nyu.edu/events/growingupinsc
 
 ### Disabilities and Neurodiversity
 
-- IncludeEdu[Website](https://includedu.online/){target="_blank"} [Twitter](https://twitter.com/IncludEduOnline){target="_blank"}
+- IncludeEdu: [Website](https://includedu.online/){target="_blank"} | [Twitter](https://twitter.com/IncludEduOnline){target="_blank"}
 - [Diasbled in Higher Ed](https://disabledinhighered.weebly.com/dehem-2021.html){target="_blank"}
 - [Job accommodation network](https://askjan.org/){target="_blank"}
-- theADHDAcademic[Website](https://theadhdacademic.weebly.com/){target="_blank"} [Twitter](https://twitter.com/theADHDacademic){target="_blank"}
-- Disabled in STEM [Website](https://disabledinstem.wordpress.com/){target="_blank"} [Twitter](https://twitter.com/DisabledStem){target="_blank"}
+- theADHDAcademic: [Website](https://theadhdacademic.weebly.com/){target="_blank"} | [Twitter](https://twitter.com/theADHDacademic){target="_blank"}
+- Disabled in STEM: [Website](https://disabledinstem.wordpress.com/){target="_blank"} | [Twitter](https://twitter.com/DisabledStem){target="_blank"}
 
 
 ### Mental Health
 
 - [Twitter thread on how to take care of your meantal health during your PhD](https://twitter.com/ZJAyres/status/1227503028124569600){target="_blank"}
-- Feeling overwhelmed by academia? You are not alone [Nature Career Feature](https://www.nature.com/articles/d41586-018-04998-1?utm_source=twt_na&utm_medium=social&utm_campaign=NNPnature){target="_blank"} [PDF](){target="_blank"}
+- Feeling overwhelmed by academia? You are not alone: [Nature Career Feature](https://www.nature.com/articles/d41586-018-04998-1?utm_source=twt_na&utm_medium=social&utm_campaign=NNPnature){target="_blank"} | [PDF](){target="_blank"}
 
 
 ### International student-specific resources
