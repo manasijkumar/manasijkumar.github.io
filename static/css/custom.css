@@ -115,3 +115,9 @@ a.sidebar-nav-item:focus {
 .hompage-header .title{
   text-align: center;
 }
+
+summary {
+  margin-top: 0;
+  font-family: 'Outfit', sans-serif;
+  font-size: 1.25rem;
+}
