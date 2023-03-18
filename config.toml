@@ -6,9 +6,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Menus]
   main = [
-      {Name = "About Me", URL = "/about/", weight = 1},
-      {Name = "Publications", URL = "/publications/", weight = 2},
-      {Name = "Resources for grad students", URL = "/resources/", weight = 3},
+      {Name = "Research", URL = "/research/", weight = 1},
+      {Name = "Teaching", URL = "/teaching/", weight = 2},
+      {Name = "Mentorship", URL = "/mentorship/", weight = 3},
+      {Name = "Resources for grad students", URL = "/resources/", weight = 4},
   ]
   social = [
       {Name = "ai ai-cv-square ai-2x", URL = "https://drive.google.com/uc?id=1y8QUiHE5lIMbd0Y3QJa0AAu8MsrTsa1i",  weight = 1},
@@ -19,5 +20,5 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   ]
   
 [params]
-  description = "Cognitive Neuroscientist"
+  description = " "
   layoutReverse = true

@@ -3,7 +3,7 @@
     <div class="sidebar-about">
       <a href="{{ .Site.BaseURL }}"><h1>{{ .Site.Title }}</h1></a>
       <p class="lead">
-      {{ with .Site.Params.description }} {{.}} {{ else }}An elegant open source and mobile first theme for <a href="http://hugo.spf13.com">hugo</a> made by <a href="http://twitter.com/mdo">@mdo</a>. Originally made for Jekyll.{{end}}
+      {{ with .Site.Params.description }} {{.}} {{ else }}{{end}}
       </p>
     </div>
 
@@ -23,6 +23,6 @@
       </ul>
     </nav>
 
-    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; {{ now.Format "2006"}} Manasi Jayakumar. <br> All rights reserved. {{end}}</p>
+    <p>{{ with .Site.Params.copyright }}{{.}}{{ else }}&copy; 2021-2023 Manasi Jayakumar. <br> All rights reserved. <br> Using <a href = "http://fontawesome.io/"> Font Awesome </a> & <a href = https://jpswalsh.github.io/academicons/> Academicons </a> <br> {{end}}</p>
   </div>
 </aside>
