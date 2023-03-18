@@ -15,8 +15,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       {Name = "ai ai-cv-square ai-2x", URL = "https://drive.google.com/uc?id=1y8QUiHE5lIMbd0Y3QJa0AAu8MsrTsa1i",  weight = 1},
       {Name = "ai ai-google-scholar-square ai-2x", URL = "https://scholar.google.com/citations?user=NdH11boAAAAJ&hl=en",  weight = 2},
       {Name = "fa-brands fa-orcid fa-2x", URL = "https://orcid.org/0000-0001-5029-4922",  weight = 3},
-      {Name = "fa-brands fa-github-square fa-2x", URL = "https://github.com/manasijkumar",  weight = 4},
-      {Name = "fa-brands fa-twitter-square fa-2x", URL = "https://twitter.com/manasijkumar",  weight = 5},
+      {Name = "ai ai-osf ai-2x", URL = "https://osf.io/4f8m5",  weight = 4},
+      {Name = "fa-brands fa-github-square fa-2x", URL = "https://github.com/manasijkumar",  weight = 5},
+      {Name = "fa-brands fa-twitter-square fa-2x", URL = "https://twitter.com/manasijkumar",  weight = 6},
+      
   ]
   
 [params]
