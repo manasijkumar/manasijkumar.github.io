@@ -15,7 +15,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 - Appointed as the Teaching Scholar for the Department of Psychology
 - Instructor of Record for seminar course in Fall 2023 titled “From lab to life: How
 cognition research affects everything you do!” 
-- Fellowship covers additional year funding (stipend, tuition, and fees)
+- Fellowship covers sixth year funding (stipend, tuition, and fees)
 
 ### Lead Teaching Fellow  
 **2022-2023**
@@ -44,8 +44,8 @@ cognition research affects everything you do!”
 - Illuminating the learning process
 - Reflections on a year and a half of online teaching and learning (2 part series)
 - Ungrading and Re-centering Process in the Classroom
-- Difficult Knowledge and Inclusive Teaching
--  by Observing: Effective teaching observations
+- Difficult Knowledge and Inclusive 
+- Teaching by Observing: Effective teaching observations
 - Teaching through Discussion
 - Careers in Educational Development
 
