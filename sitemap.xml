@@ -4,6 +4,12 @@
   <url>
     <loc>/categories/</loc>
   </url><url>
+    <loc>/sample_materials/</loc>
+  </url><url>
+    <loc>/eff_teaching/</loc>
+  </url><url>
+    <loc>/teaching_dev/</loc>
+  </url><url>
     <loc>/</loc>
   </url><url>
     <loc>/mentorship/</loc>
@@ -19,5 +25,7 @@
     <loc>/publications/</loc>
   </url><url>
     <loc>/teaching/</loc>
+  </url><url>
+    <loc>/teaching_exp/</loc>
   </url>
 </urlset>

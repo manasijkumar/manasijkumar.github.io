@@ -63,7 +63,7 @@ a.sidebar-nav-item:focus {
  * Align the contents of the site above the proper threshold with some margin-fu
  * with a 25%-wide `.sidebar`.
  */
-
+ 
 .content {
   padding-top:    4rem;
   padding-bottom: 4rem;
@@ -86,7 +86,7 @@ a.sidebar-nav-item:focus {
 
 /* Overriding max width so the text comes till the sidebar*/
 .content.container {
-  max-width: 65rem;
+  max-width: 50rem;
 }
 
 /*
@@ -135,3 +135,58 @@ summary {
   font-family: 'Outfit', sans-serif;
   font-size: 1.25rem;
 }
+
+/*
+ * Cards
+ * Custom css to style Cards that are at the bottom of the teaching page. 
+ * The class for card was defined in layouts/_default/single.html(lines 6-13)
+ */
+ 
+ /* Card Columns */
+.card-columns {
+    display: grid;
+    grip-gap: 10 px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    text-align: center;
+    
+    /*column-count: 4;
+    list-style: none;
+    text-align: center;
+    background-color: #f2f2f2*/
+    
+    /* i think I need to add something here or in card below so that the text within the list becomes responsive* color: #227bb9 */
+  
+}
+
+.card-columns h5 {
+    display: inline-grid;
+    color: #227bb9;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
+
+ 
+ 
+ /* Basic Card width: 18rem;*/
+.card {
+  /*display: block; */
+  background-color: #f2f2f2;
+  
+}
+
+ /* Card Image */
+ 
+ 
+ /* Card Title 
+.card-columns.card {
+  display: block;
+  margin-top: 0;
+  text-align: center;
+}*/
+
+
+
+ 
