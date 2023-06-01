@@ -12,10 +12,19 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ## Research Mentees
 
+<ul style = "list-style-type:none">
 
+<li>2022-present: Cecilia Nemeth, Undergraduate Research Assistant, Columbia University</li>
+
+<li>2021-present: Aria Tsegai-Moore, Post-baccalaureate scholar, Columbia University</li>
+
+<li>2021-2023: Moe Khine, Undergraduate Research Assistant, Columbia University</li>
+
+<li>2019-2022: Chinmayi Balusu, Undergraduate Research Assistant, Columbia University</li>
+
+</ul>
 
 ### Mentee presentations
-
 
 Nemeth, C.º, Jayakumar, M., Tsegai-Moore, A.⁺, Aly, M. (2022, October) How do attentional fluctuations during encoding influence memory? Poster presented at the Columbia Undergraduate Research Symposium, New York, NY.
 
