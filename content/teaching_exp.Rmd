@@ -36,7 +36,8 @@ knitr::opts_chunk$set(collapse = TRUE)
 - Average effectiveness rating of 4.09/5 (median = 4.00)
 
 
-### Statistics for Behavioral Scientists                                          **Lab Section Instructor, Spring 2021**
+### Statistics for Behavioral Scientists
+**Lab Section Instructor, Spring 2021**
 
 - 60-student upper-level undergraduate psychology course, virtual 
 - Led a weekly lab section of 15 students
@@ -74,38 +75,56 @@ Since 2021, I have been a core organizing team member for SIPPS. I have co-devel
 
 Below are some of the highlights of my pedagogical contribution over the past 3 summers:
 
-#### Summer 2023
+<details> 
+
+<summary><b>Summer 2023</b></summary>
 
 - 20 students, held virtually(zoom)
 - Revamped the curriculum to created a flipped classroom setup from the R programming and Research Skills workshops. 
 - Created flipped classroom materials for X workshops and taught Y workshops in-person 
+</details>
 
 
-#### Summer 2022
+<details>
+
+<summary><b>Summer 2022</b></summary>
 
 - 30 students, in-person
 - Created and taught 4 workshops: How to read a paper, Organizing your research and using bash, CVs and Resumes, and Research Ethics
 - Analyzed the efficacy of SIPPS this summer using pre- and post-program questionnaires 
 
-#### Summer 2021
+</details>
+
+<details>
+
+<summary><b>Summer 2021</b></summary>
 
 - 30-60 students(depending on the workshop), virtual/zoom
 - Served both domestic and international students.
 - Taught four workshops: R Programming Fundamentals, Data Cleaning in R, Correlations and basic visualization in R, Introduction to Regression
 - Analyzed the efficacy of SIPPS this summer using pre- and post-program questionnaires
 
+</details>
+
 
 ### Other workshops developed and instructed
 
-#### Columbia Psychology Symposium, 2021
+<details> 
+
+<summary><b>Columbia Psychology Symposium, 2021</b></summary>
 
 - 15 students, virtual/zoom
 - Workshop taught: how to make the most of your RA experience
+</details>
 
-#### Columbia Psychology Scientific Computing, 2020-2021
+<details>
+
+<summary><b>Columbia Psychology Scientific Computing, 2020-2021</b></summary>
 
 - 15-students, in-person
 - Workshops taught: Introduction to R programming, Python programming fundamentals for R Users 
+
+</details>
 
 ---
 

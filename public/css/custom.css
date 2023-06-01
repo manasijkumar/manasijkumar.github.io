@@ -133,8 +133,9 @@ a.sidebar-nav-item:focus {
 summary {
   margin-top: 0;
   font-family: 'Outfit', sans-serif;
-  font-size: 1.25rem;
 }
+
+/* font-size: 1.25rem; */
 
 /*
  * Cards
