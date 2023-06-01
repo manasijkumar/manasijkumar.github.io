@@ -10,4 +10,55 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 
-Coming soon!
+## Research Mentees
+
+
+
+### Mentee presentations
+
+
+Nemeth, C.º, Jayakumar, M., Tsegai-Moore, A.⁺, Aly, M. (2022, October) How do attentional fluctuations during encoding influence memory? Poster presented at the Columbia Undergraduate Research Symposium, New York, NY.
+
+Tsegai-Moore, A.⁺, Jayakumar, M., Aly M. (2022, June) The Influence of Attentional Fluctuations on Memory. Talk presented at the Bridge to the Ph.D. Annual Symposium, New York, NY.
+
+Balusu, C.º, Jayakumar, M., Aly, M., (2020, May) How Does Attentional State Influence Temporal Organization of Memory? Poster presented at the Columbia Psychology Symposium, New York, NY. <br>
+*Placed 2nd in the best poster award competition*
+
+º mentee is/was an undergraduate student <br>
+⁺ mentee is a post-baccalaureate scholar in the Columbia University Bridge to the Ph.D. program 
+
+
+<h2> Other Mentoring and Advising </h2>
+
+<details>
+
+<summary> <b> Summer Internship in Psychological Sciences (SIPPS) </b></summary>
+
+SIPPS is a 10-week summer research internship program founded, organized, and conducted by Columbia University grad student volunteers. It provides an immersive and practical introduction to psychology and neuroscience research. The program is specifically designed for students with little to no prior experience. It comprises two main components: 1) 3 workshops a week that cover topics ranging from coding, professional development, research skills, and journal club. 2) a mentored research experience with a PhD student or postdoc mentor. 
+
+I have been a core member of the organizing team since 2021 involved in curriculum development, creating and leading workshops, organizing the program, and mentoring students. Below are examples of the SIPPS presentations by some of my mentees:
+
+Nemeth, C.º, Jayakumar, M. (2022, August) How do attentional fluctuations affect the semantic organization of memory? Poster presented at the SIPPS 2022 Mini-Research Conference, New York, NY.
+
+º mentee is/was an undergraduate student
+
+</details>
+
+<details> 
+
+<summary> <b> Women in Science at Columbia (WISC) </b></summary>
+
+
+Through the WISC undergraduate mentoring program, I provide 1-on-1 mentorship of Columbia University undergraduate students on career options and professional development. 
+
+</details>
+
+<details> 
+
+<summary> <b> Simply Neuroscience Action Potential Advising Program </b></summary>
+
+1-on-1 mentorship of high-school and undergraduate students around the world about careers in neuroscience and psychology. 
+
+</details>
+
+

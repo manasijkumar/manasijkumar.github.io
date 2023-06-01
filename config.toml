@@ -6,10 +6,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Menus]
   main = [
-      {Name = "Research", URL = "/research/", weight = 1},
-      {Name = "Teaching", URL = "/teaching/", weight = 2},
-      {Name = "Mentorship", URL = "/mentorship/", weight = 3},
-      {Name = "Resources for grad students", URL = "/resources/", weight = 4},
+      {Name = "Research", URL = "/research/", weight = 1, cards = false},
+      {Name = "Teaching", URL = "/teaching/", weight = 2, cards = true},
+      {Name = "Mentorship", URL = "/mentorship/", weight = 3, cards = false},
+      {Name = "Resources for grad students", URL = "/resources/", weight = 4, cards = false},
   ]
   social = [
       {Name = "ai ai-cv-square ai-2x", URL = "https://drive.google.com/uc?id=1y8QUiHE5lIMbd0Y3QJa0AAu8MsrTsa1i",  weight = 1},
@@ -20,6 +20,13 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       {Name = "fa-brands fa-twitter-square fa-2x", URL = "https://twitter.com/manasijkumar",  weight = 6},
       
   ]
+  
+  cards = [
+      {Name = "My Teaching Experience",URL = "/teaching_exp/", weight = 1},
+      {Name = "Sample Course Materials", URL = "/sample_materials/", weight = 2},
+      {Name = "Teaching Effectiveness", URL = "/eff_teaching/", weight = 3},
+      {Name = "Fellowships and Training", URL = "/teaching_dev/", weight = 4}
+ ]
   
 [params]
   description = " "

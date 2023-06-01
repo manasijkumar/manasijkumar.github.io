@@ -1,0 +1,58 @@
+---
+title: Fellowships and Teaching Development
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+<center><h2> Fellowships </h2></center>
+
+
+### GSAS Teaching Scholar
+**2023-2024**
+
+- Appointed as the Teaching Scholar for the Department of Psychology
+- Instructor of Record for seminar course in Fall 2023 titled “From lab to life: How
+cognition research affects everything you do!” 
+- Fellowship covers additional year funding (stipend, tuition, and fees)
+
+### Lead Teaching Fellow  
+**2022-2023**
+
+- Organized a workshop for the department’s graduate students and post-docs titled “Agency as a TA: Building relationships with our students and creating inclusive learning environments”. 
+- Acted as liaison between psychology PhD students and CTL 
+- Conducted needs assessment within the department, and organized a department-specific microteaching session.
+
+---
+
+
+<center><h2> Pedagogical Development </h2></center>
+
+
+### Teaching Development Program - Advanced Track
+
+- Designed my policy sheet and a first day plan for instructing lab sections
+- Participated and reflected on 10 workshops by CTL (see below for complete list of workshops attended)
+- Teaching observation of my guest lecture in Science of Psychology
+- Mid-course review for my section in Research Methods
+
+### CTL Workshops attended
+
+
+- Essentials of Teaching and Learning (4 part series)
+- Illuminating the learning process
+- Reflections on a year and a half of online teaching and learning (2 part series)
+- Ungrading and Re-centering Process in the Classroom
+- Difficult Knowledge and Inclusive Teaching
+-  by Observing: Effective teaching observations
+- Teaching through Discussion
+- Careers in Educational Development
+
+### Intensive Seminar on Inclusive Teaching
+
+- Completed a 5-part intensive series by reflecting on my current inclusive teaching experiences and practices,  engaging with scholarship on inclusive teaching, and applying it to my teaching practice. 
+- Authored my “Statement of Inclusive Teaching”, which explicitly documents my  commitment to creating an inclusive environment and is directed at students. This statement was later incorporated into my syllabus for the applied cognition research seminar. 
+
+
+

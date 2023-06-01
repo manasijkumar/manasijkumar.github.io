@@ -1,0 +1,127 @@
+---
+title: Teaching Experience
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+#### Contents: 
+
+- [Courses at Columbia University](#CU-courses)
+- [Workshops at Columbia University](#CU-workshops)
+- [Prior Teaching Experience](#prior-exp)
+
+
+<center> <h2 id = "CU-courses"> Courses at Columbia University </h2> </center>
+
+### How-To's of Research 
+**Co-Instructor, Spring 2023**
+
+ - 30-student intermediate psychology course, in-person
+ - Updated the pre-existing curriculum
+ - Designed and instructed classes as part of a teaching team
+ - Created content matter slide decks, assessments, and in-class activities
+ - Provided feedback on scaffolded assignments, and graded assessments
+ - Average effectiveness rating of 4.83/5 (median = 5.00)
+ 
+### Research Methods: Cognition and Decision Making
+**Lab Section Instructor, Fall 2021**
+
+- 70-student upper-level undergraduate psychology course, hybrid
+- Led a weekly lab section with 15 students
+- Updated existing lesson plan for each lab section
+- Created content matter slide decks, and assignment rubrics
+- Graded assignments (including problem sets in R, literature review write-up, project proposal, final project write-up) 
+- Average effectiveness rating of 4.09/5 (median = 4.00)
+
+
+### Statistics for Behavioral Scientists                                          **Lab Section Instructor, Spring 2021**
+
+- 60-student upper-level undergraduate psychology course, virtual 
+- Led a weekly lab section of 15 students
+- Created weekly review slides, and assignment rubrics
+- Graded assignments (including problem sets in R, weekly written assignments, and 3 projects)
+- Average effectiveness rating of 4.60/5 (median = 5.00)
+
+### The Science of Psychology
+**Teaching assistant, Fall 2019**
+
+- 120-student introductory undergraduate psychology course, in-person 
+- Designed and taught two guest lectures covering the topic of memory
+- Created multiple-choice and short-answer exam questions
+- Graded multiple-choice questions, essay questions, and 2-page papers
+- No evaluations conducted this semester due to admin error
+
+
+### Mind, Brain, and Behavior
+**Teaching assistant, Spring 2019**
+
+- 120-student introductory undergraduate psychology course, in-person 
+- Moderated online discussion boards for course-related content
+- Graded multiple-choice questions, essay questions, and 2-page final papers 
+- Average effectiveness rating of 4.11/5 (median = 4.00)
+
+---
+
+<center> <h2 id = "CU-workshops"> Workshops at Columbia University </h2> </center> 
+
+### Summer Internship Program in Psychological Sciences (SIPPS)
+
+SIPPS is a 10-week summer internship program that formalizes training  for psychological research through a practical, hands-on, and immersive experience. The SIPPS curriculum consists of two components: 1) multiple weekly workshops on R programming, research skills, professional development, and/or journal club and 2) a mentored research experience where trainees are paired with postdoc and grad student mentors from the Psychology department. This is a completely volunteer-led and volunteer-run program.
+
+Since 2021, I have been a core organizing team member for SIPPS. I have co-developed the workshop curriculum, co-managed the team of mentors, mentees, and workshop instructors, and co-organized a SIPPS research mini-conference at the end of each summer.
+
+Below are some of the highlights of my pedagogical contribution over the past 3 summers:
+
+#### Summer 2023
+
+- 20 students, held virtually(zoom)
+- Revamped the curriculum to created a flipped classroom setup from the R programming and Research Skills workshops. 
+- Created flipped classroom materials for X workshops and taught Y workshops in-person 
+
+
+#### Summer 2022
+
+- 30 students, in-person
+- Created and taught 4 workshops: How to read a paper, Organizing your research and using bash, CVs and Resumes, and Research Ethics
+- Analyzed the efficacy of SIPPS this summer using pre- and post-program questionnaires 
+
+#### Summer 2021
+
+- 30-60 students(depending on the workshop), virtual/zoom
+- Served both domestic and international students.
+- Taught four workshops: R Programming Fundamentals, Data Cleaning in R, Correlations and basic visualization in R, Introduction to Regression
+- Analyzed the efficacy of SIPPS this summer using pre- and post-program questionnaires
+
+
+### Other workshops developed and instructed
+
+#### Columbia Psychology Symposium, 2021
+
+- 15 students, virtual/zoom
+- Workshop taught: how to make the most of your RA experience
+
+#### Columbia Psychology Scientific Computing, 2020-2021
+
+- 15-students, in-person
+- Workshops taught: Introduction to R programming, Python programming fundamentals for R Users 
+
+---
+
+
+<center> <h2 id = "prior-exp"> Prior Teaching Experience </h2> </center>
+
+### Al Noor Training Center for Children with Special Needs, Dubai, U.A.E.
+**Volunteer Teaching Assistant, 2013-2014**
+
+- Educational curriculum was designed to teach basic life skills to severely-disabled children with Autism Spectrum Disorder and Down’s syndrome 
+- Assisted the teachers with educational activities designed for the students
+- Helped the children during mealtimes
+
+### Physics Measurement Techniques Lab, BITS Pilani, Dubai, U.A.E.
+**Lab Section Assistant, Fall 2011**
+
+- 30-student intermediate-level undergraduate laboratory course, in-person 
+- Assisted students set up and troubleshoot experiments in a physics laboratory
+

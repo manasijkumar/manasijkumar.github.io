@@ -7,12 +7,43 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Course Materials</title>
+      <link>/sample_materials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sample_materials/</guid>
+      <description>Coming Soon!</description>
+    </item>
+    
+    <item>
+      <title>Evidence of Effective Teaching</title>
+      <link>/eff_teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/eff_teaching/</guid>
+      <description>Contents:Summary of course evaluationsTestimonials from studentsTeaching Observations in CoursesWorkshop EvaluationsSummary of Student EvaluationsAnonymous Mid-Course SurveyIn the “How-To’s of Research” course, I conducted a mid-course survey to understand what was working so far in the class, and what students were finding challenging. This survey was completely optional and anonymous. Students rated the prompts provided on a scale of 1-5.</description>
+    </item>
+    
+    <item>
+      <title>Fellowships and Teaching Development</title>
+      <link>/teaching_dev/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching_dev/</guid>
+      <description>FellowshipsGSAS Teaching Scholar2023-2024
+Appointed as the Teaching Scholar for the Department of PsychologyInstructor of Record for seminar course in Fall 2023 titled “From lab to life: Howcognition research affects everything you do!”Fellowship covers additional year funding (stipend, tuition, and fees)Lead Teaching Fellow2022-2023
+Organized a workshop for the department’s graduate students and post-docs titled “Agency as a TA: Building relationships with our students and creating inclusive learning environments”.</description>
+    </item>
+    
+    <item>
       <title>Mentorship</title>
       <link>/mentorship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/mentorship/</guid>
-      <description>Coming soon!</description>
+      <description>Research MenteesMentee presentationsNemeth, C.º, Jayakumar, M., Tsegai-Moore, A.⁺, Aly, M. (2022, October) How do attentional fluctuations during encoding influence memory? Poster presented at the Columbia Undergraduate Research Symposium, New York, NY.
+Tsegai-Moore, A.⁺, Jayakumar, M., Aly M. (2022, June) The Influence of Attentional Fluctuations on Memory. Talk presented at the Bridge to the Ph.D. Annual Symposium, New York, NY.
+Balusu, C.º, Jayakumar, M., Aly, M., (2020, May) How Does Attentional State Influence Temporal Organization of Memory?</description>
     </item>
     
     <item>
@@ -42,7 +73,7 @@ Trelle, A. N., Carr, V. A., Wilson, E. N., Swarovski, M. S., Hunt, M. P., Toueg,
       
       <guid>/resources/</guid>
       <description>Click the arrows below to expand for resources!
-Programming, Statistics, and MethodsProgramming tutorialsColumbia Psychology Scientific ComputingColumbia Foundations for Research ComputingSIPPS coding workshopsData analysis and visualization for ecologistsProgramming in Psychological Sciences courseR for data scienceUnix ShellGitVersion control with GitGit with R studioStatisticsMixed-effects ModelingBayesian statistics with RNeuroimaging AnalysisAFNI BootcampAndy’s Brain BookEyetracking and pupilometryBasic preprocessing of pupil dataGaze R: Github | Paper| Pre-print | Video tutorialPyGazeWebgazerOtherReinforcement Learning resource guideResearch Skills and ToolsResearch Skills &amp;amp; ToolsSIPPS workshops on research skillsSIPPS workshops on professional developmentPurdue OWL APA 7 guideHow to undertake a literature reviewConnected papersResearch rabbitOther lists of listsList of tools and resources for your PhD (also links to other curated links!</description>
+Programming, Statistics, and MethodsProgramming tutorialsColumbia Psychology Scientific ComputingColumbia Foundations for Research ComputingSIPPS coding workshopsData analysis and visualization for ecologistsProgramming in Psychological Sciences courseR for data scienceUnix ShellGitVersion control with GitGit with R studioStatisticsMixed-effects ModelingBayesian statistics with RNeuroimaging AnalysisAFNI BootcampAndy’s Brain BookEyetracking and pupilometryBasic preprocessing of pupil dataGaze R: Github | Paper| Pre-print | Video tutorialPyGazeWebgazerOtherReinforcement Learning resource guideResearch Skills and ToolsResearch Skills &amp;amp; ToolsSIPPS workshops on research skillsSIPPS workshops on professional developmentPurdue OWL APA 7 guideHow to undertake a literature reviewConnected papersResearch rabbitOther lists of listsList of tools and resources for your PhD (also links to other curated links!</description>
     </item>
     
     <item>
@@ -61,6 +92,16 @@ Trelle, A. N., Carr, V. A., Wilson, E. N., Swarovski, M. S., Hunt, M. P., Toueg,
       
       <guid>/teaching/</guid>
       <description>Coming soon!</description>
+    </item>
+    
+    <item>
+      <title>Teaching Experience</title>
+      <link>/teaching_exp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching_exp/</guid>
+      <description>Contents:Courses at Columbia UniversityWorkshops at Columbia UniversityPrior Teaching ExperienceCourses at Columbia UniversityHow-To’s of ResearchCo-Instructor, Spring 2023
+30-student intermediate psychology course, in-personUpdated the pre-existing curriculumDesigned and instructed classes as part of a teaching teamCreated content matter slide decks, assessments, and in-class activitiesProvided feedback on scaffolded assignments, and graded assessmentsAverage effectiveness rating of 4.</description>
     </item>
     
   </channel>
