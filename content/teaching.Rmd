@@ -6,4 +6,9 @@ title: Teaching
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-Coming soon! 
+<center><h2>My Teaching Philosophy</h2></center>
+
+<center> Teaching is about preparing students to be <b> independent and critical thinkers, who are scientifically literate and able to apply their knowledge to their fields of interest </b>. In this age of easy access to misinformation, scientific literacy is important for students to understand the world and to critically evaluate and validate any information they are presented with. In line with this philosophy, first, I create <b> an inclusive, accessible, and supportive learning environment </b> by setting explicit expectations for every component of my course. This allows students to better understand the expectations in the class, thus allowing them to push their boundaries and explore their interests.  Second, I believe that <b> mistakes are a part of the learning process and encourage students to learn from their mistakes </b>, instead of viewing them as failures. I incorporate scaffolded assignments in my courses and provide timely feedback so that students can reflect on their mistakes, learn from them and improve for the future. Finally, <b> agency and ownership are key to motivating students and engaging them in their learning </b>. Specifically, as an attention and memory researcher, I think about evidence-based ways to sustain my students’ attention in the classroom and proven strategies to help them learn and remember the content better. I encourage students to take ownership of their work and generate their own solutions to any problem. Creating an inclusive and supportive learning environment for students while encouraging them to take ownership of their progress and learn from mistakes, builds their confidence, and creates scientifically literate adults who can think critically and independently. </center>
+
+
+---
