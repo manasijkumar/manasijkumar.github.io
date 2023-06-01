@@ -15,7 +15,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 - [Workshop Evaluations](#workshop-evals)
 
 
-<center> <h3 id = "student-evals"> Summary of Course Evaluations </h3> </center>
+<center> <h2 id = "student-evals"> Summary of Course Evaluations </h2> </center>
 
 Course evaluations in the Department of Psychology at Columbia University use a 5-point scale. Students are asked to rate the overall teaching effectiveness of the instructor on a scale of 1 to 5 (1 = Poor, 2 = Fair, 3 = Good, 4 = Very Good, 5 = Excellent).The table below summarizes my ratings for the different courses I've taught.
 
@@ -64,7 +64,7 @@ constructive critique is that sometimes she over-explains simple concepts, but i
 
 ---
 
-<center> <h3 id = "mid-course-survey"> Sample Mid-Course Survey Results </h3> </center>
+<center> <h2 id = "mid-course-survey"> Sample Mid-Course Survey Results </h2> </center>
 
 In the “How-To’s of Research” course, I conducted a mid-course survey to understand what was working so far in the class, and what students were finding challenging. This survey was completely optional and anonymous. Students rated the prompts provided on a scale of 1-5. The table below summarizes the number of responses along with the mean and median ratings for each prompt.
 
@@ -78,7 +78,7 @@ In the “How-To’s of Research” course, I conducted a mid-course survey to u
 
 ---
 
-<center> <h3 id = "testimonials"> Unsolicited testimonials from students</h3> </center>
+<center> <h2 id = "testimonials"> Unsolicited testimonials from students</h2> </center>
 
 <details> 
 <summary><b>Testimonial 1</b></summary>
@@ -106,7 +106,7 @@ I just couldn't express my gratitude more. Thank you for being there, in the tim
 
 ---
 
-<center> <h3 id = "teaching-obs"> Teaching Observations </h3> </center>
+<center> <h2 id = "teaching-obs"> Teaching Observations </h2> </center>
 
 CTL provides teaching observations and mid-course reviews with trained consultants. The PDFs of the reports can be found below: 
 
@@ -116,7 +116,7 @@ CTL provides teaching observations and mid-course reviews with trained consultan
 --- 
 
 
-<center> <h3 id = "workshop-evals">  Workshop Evaluations </h3> </center>
+<center> <h2 id = "workshop-evals">  Workshop Evaluations </h2> </center>
 
 <details> 
 
