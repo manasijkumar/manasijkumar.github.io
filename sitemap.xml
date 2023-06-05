@@ -20,12 +20,16 @@
   </url><url>
     <loc>/resources/</loc>
   </url><url>
+    <loc>/syllabus/</loc>
+  </url><url>
     <loc>/tags/</loc>
   </url><url>
     <loc>/publications/</loc>
   </url><url>
+    <loc>/teaching_exp/</loc>
+  </url><url>
     <loc>/teaching/</loc>
   </url><url>
-    <loc>/teaching_exp/</loc>
+    <loc>/teaching_statement/</loc>
   </url>
 </urlset>
