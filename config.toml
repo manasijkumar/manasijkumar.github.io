@@ -7,7 +7,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [Menus]
   main = [
       {Name = "Research", URL = "/research/", weight = 1, cards = false},
-      {Name = "Teaching", URL = "/teaching/", weight = 2, cards = true},
+      {Name = "Teaching Portfolio", URL = "/teaching/", weight = 2, cards = true},
       {Name = "Mentorship", URL = "/mentorship/", weight = 3, cards = false},
       {Name = "Resources for grad students", URL = "/resources/", weight = 4, cards = false},
   ]
@@ -22,10 +22,12 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   ]
   
   cards = [
-      {Name = "My Teaching Experience",URL = "/teaching_exp/", weight = 1},
-      {Name = "Sample Course Materials", URL = "/sample_materials/", weight = 2},
-      {Name = "Teaching Effectiveness", URL = "/eff_teaching/", weight = 3},
-      {Name = "Fellowships and Training", URL = "/teaching_dev/", weight = 4}
+      {Name = "Teaching Statement",URL = "/teaching_statement/", weight = 1},
+      {Name = "Teaching Experience",URL = "/teaching_exp/", weight = 2},
+      {Name = "Sample Course Materials",URL = "/sample_materials/", weight = 3},
+      {Name = "Syllabus", URL = "/syllabus/", weight = 4},
+      {Name = "Teaching Effectiveness", URL = "/eff_teaching/", weight = 5},
+      {Name = "Fellowships and Training", URL = "/teaching_dev/", weight = 6}
  ]
   
 [params]

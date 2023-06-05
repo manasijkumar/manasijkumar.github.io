@@ -17,7 +17,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 <center> <h2 id = "student-evals"> Summary of Course Evaluations </h2> </center>
 
-Course evaluations in the Department of Psychology at Columbia University use a 5-point scale. Students are asked to rate the overall teaching effectiveness of the instructor on a scale of 1 to 5 (1 = Poor, 2 = Fair, 3 = Good, 4 = Very Good, 5 = Excellent).The table below summarizes my ratings for the different courses I've taught.
+Course evaluations in the Department of Psychology at Columbia University use a 5-point scale. Students are asked to **rate the overall teaching effectiveness of the instructor on a scale of 1 to 5** (1 = Poor, 2 = Fair, 3 = Good, 4 = Very Good, 5 = Excellent). The table below summarizes my ratings for the different courses I've taught.
 
 | Course | Role| Number of Responses | Mean | Median |
 | ------------ | ------ | ---- | ---- | ---- |
@@ -25,25 +25,25 @@ Course evaluations in the Department of Psychology at Columbia University use a 
 |Research Methods: Cognition and Decision-Making| Lab Section Instructor |11 | 4.09 | 4.00 |
 |Statistics for Behavioral Scientists| Lab Section Instructor | 15 | 4.60 | 5.00 |
 
-*Complete set of evaluations are available upon request.*
+*Complete set of evaluations can be found here*
 
-Below are a few comments from the evaluations given in response to the prompt: "What are the strengths and weaknesses of Manasi Jayakumar as an instructor, and how might Manasi Jayakumar's teaching be improved?"
+Below are a few comments from the evaluations given in response to the prompt: **"What are the strengths and weaknesses of Manasi Jayakumar as an instructor, and how might Manasi Jayakumar's teaching be improved?"** Click each of the triangles to expand.
 
 <details> 
 
-<summary><b>How-To's of Research</b></summary>
+<summary><b>How-To's of Research Comments</b></summary>
 
 > "Manasi was an amazing TA! I went to most of her office hours, and she really really helped me clarify all my problems with my research paper. She is very kind, supportive and understands all of the problems us students face. Overall, I really enjoyed being her student, and would definitely recommend her to other students!! I really appreciate all of her help :)"
 
 > "Manasi was wonderful to learn from. Her assistance in office hours was really insightful, and she always gave detailed and constructive feedback on all of my assignments. My only possible
-constructive critique is that sometimes she over-explains simple concepts, but it is only because she wants to make sure she doesn't leave anyone behind--she out effort into making How To's a space where all skill levels were welcome."
+constructive critique is that sometimes she over-explains simple concepts, but it is only because she wants to make sure she doesn't leave anyone behind--she put effort into making How To's a space where all skill levels were welcome."
 
 </details> 
 
 
 <details> 
 
-<summary><b>Research Methods</b></summary> 
+<summary><b>Research Methods Comments</b></summary> 
 
 > “Manasi is the best TA I have had during my college career. She is incredibly timely in responding to emails and very clear in her answers to questions. She provides great feedback on our work and she creates a safe space to ask questions and think critically during class.“
 
@@ -54,7 +54,7 @@ constructive critique is that sometimes she over-explains simple concepts, but i
 </details> 
 
 <details>
-<summary><b>Statistics for Behavioral Scientists</b></summary>
+<summary><b>Statistics for Behavioral Scientists Comments</b></summary>
 
 > “Manasi did an incredible job leading the lab sections. She provided a review of the topics we had covered in class that week, which was super helpful.”
 
@@ -62,28 +62,37 @@ constructive critique is that sometimes she over-explains simple concepts, but i
 
 </details> 
 
----
+<h3> How To's of Research instructor-led survey </h3>
 
-<center> <h2 id = "mid-course-survey"> Sample Mid-Course Survey Results </h2> </center>
-
-In the “How-To’s of Research” course, I conducted a mid-course survey to understand what was working so far in the class, and what students were finding challenging. This survey was completely optional and anonymous. Students rated the prompts provided on a scale of 1-5. The table below summarizes the number of responses along with the mean and median ratings for each prompt.
+In addition to the formal course evaluation through Columbia, I also conducted my own post-course survey on the last day of class. Summary of the responses are provided in the table, with the anonymous comments provided after (click the triangle to expand). 
 
 | Prompt | Number of Responses | Mean | Median |
-| ----------------- | ------ | ---- | ---- |
-|“Satisfaction with the support and guidance from Manasi Jayakumar.”| 22 | 4.68 | 5.00 |
-|“The class provided a warm and inclusive environment.”| 21 | 4.52 | 5.00 |
-|“The course lectures and content prepared me for course assessments.”| 21 | 4.62 | 5.00 |
-|“I feel more confident in my ability to understand and engage with psychological research now.” | 21 | 4.57 | 5.00 |
-|“I feel I have the tools and information I need to succeed in this course.”| 21 | 4.48 | 5.00 |
+| ------------------ | ---- | ---- | ---- |
+|What is the overall teaching effectiveness of Manasi Jayakumar? | 27 | 4.70 | 5.00 |
+|How satisfied were you with the support and guidance from Manasi Jayakumar?| 27 | 4.85 | 5.00 |  
+
+<details> 
+
+<summary><b>Comments from the survey</b></summary>
+
+> "Manasi was a wonderful person and TA - she was always willing to help me in office hours and in class. Manasi gave me lots of effective feedback in regards to my predicted results within my presentation. I would highly recommend students work with Manasi in the future (because I definitely will!)"
+
+> "Manasi was very on top of helping me with assignments that I had either turned in late or had a hard time understanding. My final project, particularly organization and methods, definitely benefitted through Manasi’s input."
+
+> "Manasi was very on top of helping me with assignments that I had either turned in late or had a hard time understanding. My final project, particularly organization and methods, definitely benefitted through Manasi’s input."
+
+</details> 
 
 ---
 
 <center> <h2 id = "testimonials"> Unsolicited testimonials from students</h2> </center>
 
-<details> 
-<summary><b>Testimonial 1</b></summary>
+Click the triangles to expand or collapse. 
 
-<em> As a senior set on graduating in May of [year redacted], my Research Methods class is the first class I have learned skills that will serve me beyond school. I started the class with fear and anxiety over "R-programming language" and only registered for the Research Methods class because I needed it to graduate. 
+<details open> 
+<summary><b>Testimonial from Student in Research Methods, Fall 2021</b></summary>
+
+<em> As a senior set on graduating in May of 2022, my Research Methods class is the first class I have learned skills that will serve me beyond school. I started the class with fear and anxiety over "R-programming language" and only registered for the Research Methods class because I needed it to graduate. 
 
 Manasi, through her patience, compassion, and exceptional pedagogical skills, broke down the basic concepts of "R" to a point where a beginner like me understood coding in just two weeks. Her continued meticulousness helped me to learn to write academic papers. For our final research projects, I effortlessly navigated the "R" code-writing process with my group for data analysis.
 
@@ -95,7 +104,7 @@ She has made a mark on my Columbia experience, and I do not doubt other students
 
 <details>
 
-<summary><b>Testimonial 2</b></summary> 
+<summary><b>Testimonial from Student in Research Methods, Fall 2021</b></summary> 
 
 <em> I just wanted to send you an email to thank you for all your help and support during this semester (and previous semester as well). This fall semester was very rough for me, I am still trying to peddle through it and there is no way that I would have gone through it without your help and support. Not just by providing incredibly useful feedback, and granting me an extension for the paper but also making me feel that it would be ok, that i have what it takes to make it work, and listened and appreciated. You are not just an incredible researcher, [Instructor], but also a[n incredible] person and I will always be forever thankful for your support. I hope when I see you next spring in the halls or in classrooms, you know that you have made a huge impact on me, and I will always be there if you ever need anything. 
 
@@ -106,17 +115,9 @@ I just couldn't express my gratitude more. Thank you for being there, in the tim
 
 ---
 
-<center> <h2 id = "teaching-obs"> Teaching Observations </h2> </center>
-
-CTL provides teaching observations and mid-course reviews with trained consultants. The PDFs of the reports can be found below: 
-
-- CTL mid-course review for research methods lab section [[PDF](/Jayakumar_Manasi_CTL_TeachingObservationReport_Fall2019.pdf){target="_blank"}]
-- CTL Observation report for guest lecture in Science of Psychology[[PDF](/Jayakumar_Manasi_CTL_MidCourseReview_Fall2021.pdf){target="_blank"}]
-
---- 
-
-
 <center> <h2 id = "workshop-evals">  Workshop Evaluations </h2> </center>
+
+Click the triangles to expand the details or collapse it.
 
 <details> 
 
@@ -135,7 +136,7 @@ I conducted a virtual pedagogy workshop on “Agency as a TA. Building relations
 <details> 
 
 
-<summary><b>Summer Internship Program in Psychological Sciences (SIPPS)</b></summary>
+<summary><b>Summer Internship Program in Psychological Sciences (SIPPS) </b></summary>
 
 <details>
 <summary>2022</summary>
@@ -169,6 +170,28 @@ In 2021, I taught 4 R programming workshops which were all conducted virtually o
 </details> 
 
 </details> 
+
 ---
 
+<center> <h2 id = "teaching-obs"> Teaching Observations </h2> </center>
 
+CTL provides teaching observations and mid-course reviews with trained consultants. The PDFs of the reports can be found below: 
+
+- CTL mid-course review for research methods lab section [[PDF](/Jayakumar_Manasi_CTL_TeachingObservationReport_Fall2019.pdf){target="_blank"}]
+- CTL Observation report for guest lecture in Science of Psychology[[PDF](/Jayakumar_Manasi_CTL_MidCourseReview_Fall2021.pdf){target="_blank"}]
+
+--- 
+
+<center> <h2 id = "mid-course-survey"> Sample Mid-Course Survey Results </h2> </center>
+
+In the “How-To’s of Research” course, I conducted a mid-course survey to understand what was working so far in the class, and what students were finding challenging. This survey was completely optional and anonymous. Students rated the prompts provided on a scale of 1-5. The table below summarizes the number of responses along with the mean and median ratings for each prompt.
+
+| Prompt | Number of Responses | Mean | Median |
+| ----------------- | ------ | ---- | ---- |
+|“Satisfaction with the support and guidance from Manasi Jayakumar.”| 22 | 4.68 | 5.00 |
+|“The class provided a warm and inclusive environment.”| 21 | 4.52 | 5.00 |
+|“The course lectures and content prepared me for course assessments.”| 21 | 4.62 | 5.00 |
+|“I feel more confident in my ability to understand and engage with psychological research now.” | 21 | 4.57 | 5.00 |
+|“I feel I have the tools and information I need to succeed in this course.”| 21 | 4.48 | 5.00 |
+
+---

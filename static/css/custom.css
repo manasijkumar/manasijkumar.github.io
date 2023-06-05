@@ -146,9 +146,9 @@ summary {
  /* Card Columns */
 .card-columns {
     display: grid;
-    grip-gap: 10 px;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows: 1fr;
+    grid-gap: 2em;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 2fr;
     text-align: center;
     
     /*column-count: 4;

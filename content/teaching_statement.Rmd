@@ -1,14 +1,12 @@
 ---
-title: Teaching Portfolio
+title: Teaching Statement
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-<center><h2>Mission Statement</h2></center>
 
-Coming soon!
-
+Coming Soon! 
 
 ---

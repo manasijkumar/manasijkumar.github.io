@@ -6,7 +6,7 @@
   {{ .Content }}
 
 
-{{ if eq .Title "Teaching"}} 
+{{ if eq .Title "Teaching Portfolio"}} 
   <div class = "card-columns">
       <!-- {{ range .Site.Menus.cards -}}-->
       <div class="card">
@@ -86,7 +86,39 @@
       <!--{{- end }}-->
   </div>
   {{- end }}
+  
+  {{ if eq .Title "Syllabus"}} 
+  <div class = "card-columns">
+      <!-- {{ range .Site.Menus.cards -}}-->
+      <div class="card">
+         <ul style="list-style-type:none;">
+        <li> 
+        <a href ="{{.URL}}" class = "link-to"> 
+         <!-- <img class = "card-img-top", src = "", alt = ""> -->
+        <h5 class = "card-title"> {{ .Name }} </h5> 
+        </a> 
+        </li>
+      </div>
+      <!--{{- end }}-->
+  </div>
+  {{- end }}
 
+  {{ if eq .Title "Teaching Statement"}} 
+  <div class = "card-columns">
+      <!-- {{ range .Site.Menus.cards -}}-->
+      <div class="card">
+         <ul style="list-style-type:none;">
+        <li> 
+        <a href ="{{.URL}}" class = "link-to"> 
+         <!-- <img class = "card-img-top", src = "", alt = ""> -->
+        <h5 class = "card-title"> {{ .Name }} </h5> 
+        </a> 
+        </li>
+      </div>
+      <!--{{- end }}-->
+  </div>
+  {{- end }}
+  
 </div>  
 
 
