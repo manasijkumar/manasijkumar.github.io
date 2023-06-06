@@ -13,16 +13,18 @@ In this age of easy access to misinformation, scientific literacy is essential f
 
 To accomplish this, I create an **inclusive and supportive learning environment** by making expectations as explicit as possible, which allows students to push their boundaries and explore their interests. 
 
-Additionally, **as an attention and memory researcher, I integrate the science of learning with my teaching.** I encourage students to take ownership of their progress and learn from their mistakes instead of viewing them as failures. I scaffold major assignments with smaller low-stakes sub-components that build on each other so students have the opportunity to push their boundaries, make mistakes, and learn from them. I encourage students to generate solutions to problems, without giving them the solution outright. This builds their confidence and helps them remember the solutions better for the future. 
+Additionally, **as an attention and memory researcher, I integrate the science of learning with my teaching.** I encourage students to take **ownership of their progress and learn from their mistakes** instead of viewing them as failures. I scaffold major assignments with smaller low-stakes sub-components that build on each other so students encouraging students to take ownership of their own progress, make mistakes, and learn from them. 
+
+When I teach programming, I encourage my mentees and students take ownership of the analysis and code it from start to finish. When they are faced with problems or bugs, I have them **brainstorm and generate solutions instead of giving them the answer outright**. This builds their confidence and improves their problem-solving abilities for the future.
 
 ---
 
 
-To see a more detailed version of my teaching philosophy, please see my teaching statement <a href=/teaching_statement/>here </a>.
+For a detailed version of my teaching philosophy, please see my <a href=/teaching_statement/> teaching statement </a>.
 
-To see what my students have to say about my teaching, please see <a href=/eff_teaching/>a summary of my teaching evaluations here </a>. 
+You can find a <a href=/eff_teaching/>summary of my teaching evaluations</a> to see what my students have to say about my teaching!
 
-I also have <a href = /sample_materials/> annotated samples of my course materials here </a>, and <a href = /syllabus/> a sample syllabus </a> on this webpage. Please don’t hesitate to reach out if you have any questions or would like to borrow any of my materials! 
+I also have <a href = /sample_materials/>annotated samples of my course materials</a>, including a <a href = /syllabus/>sample syllabus</a>. Feel free to reach out to me if you have any questions or would like to borrow any of my materials! 
 
 
 ---
