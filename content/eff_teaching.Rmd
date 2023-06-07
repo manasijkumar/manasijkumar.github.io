@@ -9,10 +9,10 @@ knitr::opts_chunk$set(collapse = TRUE)
 #### Contents: 
 
 - [Summary of Course Evaluations](#student-evals)
-- [Sample Mid-Course Survey](#mid-course-survey)
 - [Testimonials from Students](#testimonials)
-- [Teaching Observations in Courses](#teaching-obs)
 - [Workshop Evaluations](#workshop-evals)
+- [Teaching Observations in Courses](#teaching-obs)
+- [Sample Mid-Course Survey](#mid-course-survey)
 
 
 <center> <h2 id = "student-evals"> Summary of Course Evaluations </h2> </center>
