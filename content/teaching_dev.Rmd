@@ -1,5 +1,5 @@
 ---
-title: Fellowships and Teaching Development
+title: Fellowships, Awards, and Teaching Development
 ---
 
 ```{r setup, include=FALSE}

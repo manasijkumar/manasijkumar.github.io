@@ -4,8 +4,6 @@
   <url>
     <loc>/categories/</loc>
   </url><url>
-    <loc>/sample_materials/</loc>
-  </url><url>
     <loc>/eff_teaching/</loc>
   </url><url>
     <loc>/teaching_dev/</loc>
@@ -19,6 +17,8 @@
     <loc>/research/</loc>
   </url><url>
     <loc>/resources/</loc>
+  </url><url>
+    <loc>/sample_materials/</loc>
   </url><url>
     <loc>/syllabus/</loc>
   </url><url>
