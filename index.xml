@@ -7,15 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Course Materials</title>
-      <link>/sample_materials/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/sample_materials/</guid>
-      <description>Coming Soon!</description>
-    </item>
-    
-    <item>
       <title>Evidence of Effective Teaching</title>
       <link>/eff_teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -25,7 +16,7 @@
     </item>
     
     <item>
-      <title>Fellowships and Teaching Development</title>
+      <title>Fellowships, Awards, and Teaching Development</title>
       <link>/teaching_dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -71,6 +62,15 @@ Trelle, A. N., Carr, V. A., Wilson, E. N., Swarovski, M. S., Hunt, M. P., Toueg,
       <guid>/resources/</guid>
       <description>Click the arrows below to expand for resources!
 Programming, Statistics, and MethodsProgramming tutorialsColumbia Psychology Scientific ComputingColumbia Foundations for Research ComputingSIPPS coding workshopsData analysis and visualization for ecologistsProgramming in Psychological Sciences courseR for data scienceUnix ShellGitVersion control with GitGit with R studioStatisticsMixed-effects ModelingBayesian statistics with RNeuroimaging AnalysisAFNI BootcampAndy’s Brain BookEyetracking and pupilometryBasic preprocessing of pupil dataGaze R: Github | Paper| Pre-print | Video tutorialPyGazeWebgazerOtherReinforcement Learning resource guideResearch Skills and ToolsResearch Skills &amp;amp; ToolsSIPPS workshops on research skillsSIPPS workshops on professional developmentPurdue OWL APA 7 guideHow to undertake a literature reviewConnected papersResearch rabbitOther lists of listsList of tools and resources for your PhD (also links to other curated links!</description>
+    </item>
+    
+    <item>
+      <title>Sample Course Materials</title>
+      <link>/sample_materials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/sample_materials/</guid>
+      <description>Contents:Applied Cognition Seminar CourseHow To’s of Research CourseResearch Methods CourseApplied Cognition Seminar CourseThe below materials are samples from my Fall 2023 seminar course titled “From lab to life: how cognition research affects everything you do!”. Students in this course are sophomore, junior, and senior undergraduates. The class meets in person, on Thursdays, for 110 minutes at Columbia University. Students learn to interpret, summarize, and communicate research in cognitive psychology and neuroscience by reading assigned empirical and review papers.</description>
     </item>
     
     <item>
