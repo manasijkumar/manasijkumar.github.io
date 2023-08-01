@@ -11,11 +11,9 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 In this age of easy access to misinformation, scientific literacy is essential for students to understand the world and to critically evaluate and validate any information they are presented with. **My mission as an educator is to prepare students to be independent and critical thinkers, who are scientifically literate and able to apply their knowledge to their fields of interest.**
 
-To accomplish this, I create an **inclusive and supportive learning environment** by making expectations as explicit as possible, which allows students to push their boundaries and explore their interests. 
+To accomplish this, I create an **inclusive and supportive learning environment** by making **expectations as explicit as possible**, which allows students to **push their boundaries and explore their interests**. 
 
-Additionally, **as an attention and memory researcher, I integrate the science of learning with my teaching.** I encourage students to take **ownership of their progress and learn from their mistakes** instead of viewing them as failures. I scaffold major assignments with smaller low-stakes sub-components that build on each other so students encouraging students to take ownership of their own progress, make mistakes, and learn from them. 
-
-When I teach programming, I encourage my mentees and students take ownership of the analysis and code it from start to finish. When they are faced with problems or bugs, I have them **brainstorm and generate solutions instead of giving them the answer outright**. This builds their confidence and improves their problem-solving abilities for the future.
+Additionally, **as an attention and memory researcher, I integrate the science of learning with my teaching.** I encourage students to take **ownership of their progress and learn from their mistakes** instead of viewing them as failures. I scaffold major assignments with smaller low-stakes sub-components that build on each other so students encouraging students to take ownership of their own progress, make mistakes, and learn from them. When my students or mentees are faced with problems or errors in their programming, I have them **brainstorm and generate solutions with me instead of giving them the answer outright**. This builds their confidence and improves their problem-solving abilities for the future.
 
 ---
 

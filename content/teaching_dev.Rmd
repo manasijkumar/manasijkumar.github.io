@@ -6,7 +6,13 @@ title: Fellowships and Teaching Development
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-<center><h2> Fellowships </h2></center>
+#### Contents: 
+
+- [Teaching Fellowships](#teach-fellowships)
+- [Awards](#teach-awards)
+- [Pedagogical Development](#teach-dev)
+
+<center><h2 id = "teach-fellowships"> Fellowships </h2></center>
 
 
 <h3><a href="https://www.gsas.columbia.edu/content/gsas-teaching-scholars-program" target = "_blank">Teaching Scholar, Graduate School of Arts and Sciences, Columbia University</a></h3>
@@ -17,6 +23,13 @@ knitr::opts_chunk$set(collapse = TRUE)
 - Designed a seminar course titled “From lab to life: How cognition research affects everything you do!” from scratch that combines my interests and expertise while addressing the needs of the department 
 - Appointed as the Instructor of Record for this seminar course in Fall 2023
 - Fellowship covers sixth year funding (stipend, tuition, and fees)
+
+<h3><a href= "https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/teaching-assessment-fellows/" target = "_blank">Teaching Assessment Fellow, Center for Teaching and Learning, Columbia University</a></h3>
+**2023-2024**
+
+- Applied and awarded fellowship for the academic year
+- Partner with faculty on projects funded through the Provost’s office to assist with assessing the effectiveness of Teaching as Research projects.
+
 
 <h3><a href= "https://ctl.columbia.edu/graduate-instructors/opportunities-for-graduate-students/lead-teaching-fellows/" target = "_blank">Lead Teaching Fellow, Center for Teaching and Learning, Columbia University</a></h3>
 **2022-2023**
@@ -29,8 +42,15 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ---
 
+<center><h2 id = "teach-awards"> Awards </h2></center>
 
-<center><h2> Pedagogical Development </h2></center>
+**2023** <a href="https://teachpsych.org/gradtravel" target = "_blank"> Graduate Student Travel Grant </a> for Society for the Teaching of Psychology's <a href="https://teachpsych.org/conferences/act.php/" target = "_blank">Annual Conference on Teaching</a> 
+
+
+
+---
+
+<center><h2 id = "teach-dev"> Pedagogical Development </h2></center>
 
 
 ### Teaching Development Program - Advanced Track
