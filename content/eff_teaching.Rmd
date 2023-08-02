@@ -25,7 +25,7 @@ Course evaluations in the Department of Psychology at Columbia University use a 
 |Research Methods: Cognition and Decision-Making| Lab Section Instructor |11 | 4.09 | 4.00 |
 |Statistics for Behavioral Scientists| Lab Section Instructor | 15 | 4.60 | 5.00 |
 
-*Complete set of evaluations can be found here*
+**Complete set of official evaluations can be found <a href = "/materials/Jayakumar_Manasi_ColumbiaUni_Complete_Evals.pdf" target="_blank">here</a>.**
 
 Below are a few comments from the evaluations given in response to the prompt: **"What are the strengths and weaknesses of Manasi Jayakumar as an instructor, and how might Manasi Jayakumar's teaching be improved?"** Click each of the triangles to expand.
 
@@ -177,8 +177,8 @@ In 2021, I taught 4 R programming workshops which were all conducted virtually o
 
 CTL provides teaching observations and mid-course reviews with trained consultants. The PDFs of the reports can be found below: 
 
-- CTL mid-course review for research methods lab section [[PDF](/Jayakumar_Manasi_CTL_TeachingObservationReport_Fall2019.pdf){target="_blank"}]
-- CTL Observation report for guest lecture in Science of Psychology[[PDF](/Jayakumar_Manasi_CTL_MidCourseReview_Fall2021.pdf){target="_blank"}]
+- CTL mid-course review for research methods lab section [[PDF](/materials/Jayakumar_Manasi_CTL_MidCourseReview_Fall2021.pdf){target="_blank"}]
+- CTL Observation report for guest lecture in Science of Psychology[[PDF](/materials/Jayakumar_Manasi_CTL_TeachingObservationReport_Fall2019.pdf){target="_blank"}]
 
 --- 
 
