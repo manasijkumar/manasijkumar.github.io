@@ -26,12 +26,31 @@
     </item>
     
     <item>
+      <title>Mentor-Mentee Contract</title>
+      <link>/mentor_mentee_contract/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mentor_mentee_contract/</guid>
+      <description>Coming soon!</description>
+    </item>
+    
+    <item>
       <title>Mentorship</title>
       <link>/mentorship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/mentorship/</guid>
-      <description>Research Mentees2022-present: Cecilia Nemeth, Undergraduate Research Assistant, Columbia University2021-2023: Aria Tsegai-Moore, Post-baccalaureate scholar, Columbia University2021-2023: Moe Khine, Undergraduate Research Assistant, Columbia University2019-2022: Chinmayi Balusu, Undergraduate Research Assistant, Columbia UniversityMentee presentationsTsegai-Moore, A.⁺, Jayakumar, M., Aly, M. (2023, July) The influence of Attentional Fluctuations on Memory. Poster presented at the Columbia University Pathways Program Symposium, New York, NY.</description>
+      <description>Mission StatementComing soon!
+</description>
+    </item>
+    
+    <item>
+      <title>Mentorship Philosophy</title>
+      <link>/mentorship_philosophy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mentorship_philosophy/</guid>
+      <description>Coming soon!</description>
     </item>
     
     <item>
@@ -52,6 +71,15 @@
       <description>My current research focuses on how naturalistic fluctuations in attention can be characterized and how these fluctuations in attention influence the temporal organization of memory.
 PublicationsJayakumar, M., Balusu, C., Aly, M. (2023). Attentional fluctuations and the temporal organization of memory. Cognition, 235, 105408. https://doi.org/10.1016/j.cognition.2023.105408. [PDF]. [PsyArXiv]. [OSF]. [self-contained Code Ocean computing enviornment].
 Trelle, A. N., Carr, V. A., Wilson, E. N., Swarovski, M. S., Hunt, M. P., Toueg, T.</description>
+    </item>
+    
+    <item>
+      <title>Research Mentees</title>
+      <link>/mentees/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/mentees/</guid>
+      <description>Research Mentees2022-present: Cecilia Nemeth, Undergraduate Research Assistant, Columbia University2021-2023: Aria Tsegai-Moore, Post-baccalaureate scholar, Columbia University2021-2023: Moe Khine, Undergraduate Research Assistant, Columbia University2019-2022: Chinmayi Balusu, Undergraduate Research Assistant, Columbia UniversityMentee presentationsTsegai-Moore, A.⁺, Jayakumar, M., Aly, M. (2023, July) The influence of Attentional Fluctuations on Memory. Poster presented at the Columbia University Pathways Program Symposium, New York, NY.</description>
     </item>
     
     <item>
@@ -118,6 +146,15 @@ To accomplish this, I create an inclusive and supportive learning environment by
       
       <guid>/teaching_statement/</guid>
       <description>Coming Soon!</description>
+    </item>
+    
+    <item>
+      <title>Working with me</title>
+      <link>/working_with_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/working_with_me/</guid>
+      <description>Coming soon!</description>
     </item>
     
   </channel>
