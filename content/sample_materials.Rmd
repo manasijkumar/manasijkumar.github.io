@@ -21,20 +21,20 @@ The below materials are samples from my Fall 2023 seminar course titled “From 
 
 To create an inclusive, accessible, and supportive environment, I described explicit expectations for participation and engagement in the syllabus, including 7 different styles of participation. I also created a rubric on participation and engagement that was added as an appendix to the syllabus. To encourage students to develop their metacognitive abilities by reflecting on their own performance, I had students complete an ungraded self-reflection for participation, which I then provided feedback on.
 
-<center> <embed src = "/materials/Applied_Cognition_Participation_guidelines.pdf" width= "500" height= "375" type="application/pdf"> </center>
+<center> <embed src = "/materials/Applied_Cognition_Participation_guidelines.pdf" width= 100% height= "375" type="application/pdf"> </center>
 
 
 ### Participation Rubric and Ungraded Self-Reflection
 
 In addition to making expectations explicit on the syllabus, I created a rubric describing how participation and engagement would be assessed and attached this as an appendix to my syllabus. Further, to encourage students to develop their metacognitive abilities by reflecting on their own performance, I had students complete this ungraded self-reflection about their participation in the fifth week of the semester. I then provided feedback to students so they could continue to improve their participation and engagement.
 
-<center> <embed src = "/materials/Applied_Cognition_Participation_rubric.pdf" width= "500" height= "375" type="application/pdf"> </center>
+<center> <embed src = "/materials/Applied_Cognition_Participation_rubric.pdf" width= 100% height= "375" type="application/pdf"> </center>
 
 ### Guidelines for the final paper
 
 For the course, students had to complete a final paper that was an in-depth literature review of their topic of interest. To encourage students to take ownership of their learning, students could choose the topics for their final paper, and could decide to write one of two types of papers.  To ensure student success for those from disadvantaged backgrounds or different experiences, I scaffolded the final paper so that there were two other low-stakes checkpoints for me to guide students and provide feedback (proposal and the road map). Through these final papers, students were able to apply the knowledge and skills learned throughout the semester to their own fields of interest.
 
-<center> <embed src = "/materials/Applied_Cognition_Final_Paper_Guidelines.pdf" width= "500" height= "375" type="application/pdf"> </center>
+<center> <embed src = "/materials/Applied_Cognition_Final_Paper_Guidelines.pdf" width= 100% height= "375" type="application/pdf"> </center>
 
 ---
 
@@ -48,7 +48,7 @@ The below materials are from the “How-To’s of Research” course that I co-t
 Students complete journal entries as homework before coming to class. To help students develop their metacognitive abilities, the journal prompts encourage them to engage in self-reflection, learn from past mistakes, and consider how they would do things differently in the future. This particular journal prompt is focused on the impact of the previous ungraded assessment (the background/intro section) and the class discussion about open sciences practices.
 
 
-<center> <embed src = "/materials/How_Tos_pre-class_journal.pdf" width= "500" height= "375" type="application/pdf"> </center>
+<center> <embed src = "/materials/How_Tos_pre-class_journal.pdf" width= 100% height= "375" type="application/pdf"> </center>
 
 
 ### Sample In-class Challenge
@@ -56,7 +56,7 @@ Students complete journal entries as homework before coming to class. To help st
 Students complete in-class challenges in small groups for participation points. In this particular class, we covered neuroimaging methods for human research, including a brief review of EEG and fMRI. Students are then asked to dissect Fig. 6 from Tong et al., 1998.  Importantly, students are asked to discuss and interpret the findings both for a scientific audience, as well as for communicating the results to a lay audience. Through this and other such in-class challenges, students learn to think critically and independently, while practicing communication of scientific findings to varied audiences. 
 
 
-<center> <embed src = "/materials/How_Tos_in-class_challenge.pdf" width= "500" height= "375" type="application/pdf"> </center>
+<center> <embed src = "/materials/How_Tos_in-class_challenge.pdf" width= 100% height= "375" type="application/pdf"> </center>
 
 
 ### Guidelines for the OSF pre-registration as final project
@@ -64,7 +64,7 @@ Students complete in-class challenges in small groups for participation points. 
 In the How-Tos’ of Research course, students submit a final project in the form of an OSF pre-registration. Throughout the semester, this final project is scaffolded with multiple ungraded sequential assessments (text in blue in the table below). Students first chose a research topic and a general question, taking ownership of their project. Then, they submit two spreadsheets of literature reviews - one with just 5 papers, and the next with 10. This is followed by a 1-page background/introduction section. The final sub-component they submit is the methods/study design template. At each stage of this scaffolded structure, students receive both instructor and peer feedback.
 
 
-<center> <embed src = "/materials/How_Tos_OSF_pre-reg_guidelines.pdf" width= "500" height= "375" type="application/pdf"> </center>
+<center> <embed src = "/materials/How_Tos_OSF_pre-reg_guidelines.pdf" width= 100% height= "375" type="application/pdf"> </center>
 
 
 ---
@@ -80,7 +80,7 @@ The document below depicts my feedback on students’ drafts of their research p
 In the Research Methods course, students propose a study or an experiment on their topic of choice for their project proposal. This project proposal was scaffolded with a series of papers that progressively built on each other: a literature review, the methods section, and a draft of the project proposal (excerpts below), before they submitted a final project proposal. At each stage of this scaffolded structure, students received timely feedback from me. Given below are examples of my feedback for two different students on the introduction of their proposal draft. To ensure that every student incorporated my feedback, I began each class by reviewing the common mistakes, suggesting ways to improve on them, and emphasizing the importance of integrating feedback from previous drafts. 
 
 
-<center> <embed src = "/materials/.pdf" width= "500" height= "375" type="application/pdf"> </center>
+<center> <embed src = "/materials/.pdf" width= 100% height= "375" type="application/pdf"> </center>
 
 ---
 
