@@ -1,5 +1,5 @@
 ---
-title: Mentorship
+title: Mentorship Philosophy
 ---
 
 ```{r setup, include=FALSE}
@@ -9,8 +9,4 @@ knitr::opts_chunk$set(collapse = TRUE)
 # this could work to create nested pages!
 ```
 
-
-## Mission Statement
-
 Coming soon!
-

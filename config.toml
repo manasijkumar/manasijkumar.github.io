@@ -6,10 +6,10 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [Menus]
   main = [
-      {Name = "Research", URL = "/research/", weight = 1, cards = false},
-      {Name = "Teaching Portfolio", URL = "/teaching/", weight = 2, cards = true},
-      {Name = "Mentorship", URL = "/mentorship/", weight = 3, cards = false},
-      {Name = "Resources for grad students", URL = "/resources/", weight = 4, cards = false},
+      {Name = "Research", URL = "/research/", weight = 1, cards = false, mentorpages = false},
+      {Name = "Teaching Portfolio", URL = "/teaching/", weight = 2, cards = true, mentorpages = false},
+      {Name = "Mentorship", URL = "/mentorship/", weight = 3, cards = false, mentorpages = true},
+      {Name = "Resources for grad students", URL = "/resources/", weight = 4, cards = false, mentorpages = false},
   ]
   social = [
       {Name = "ai ai-cv-square ai-2x", URL = "https://drive.google.com/uc?id=1y8QUiHE5lIMbd0Y3QJa0AAu8MsrTsa1i",  weight = 1},
@@ -21,15 +21,35 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       
   ]
   
-  cards = [
-      {Name = "Teaching Statement",URL = "/teaching_statement/", weight = 1},
-      {Name = "Teaching Experience",URL = "/teaching_exp/", weight = 2},
-      {Name = "Sample Course Materials",URL = "/sample_materials/", weight = 3},
-      {Name = "Syllabus", URL = "/syllabus/", weight = 4},
-      {Name = "Teaching Effectiveness", URL = "/eff_teaching/", weight = 5},
-      {Name = "Fellowships and Training", URL = "/teaching_dev/", weight = 6}
- ]
-  
-[params]
+[Params]
   description = " "
   layoutReverse = true
+  cards = [
+      {Name = "Teaching Statement", URL = "/teaching_statement/", weight = 1, tag = "teach"},
+      {Name = "Teaching Experience", URL = "/teaching_exp/", weight = 2, tag = "teach"},
+      {Name = "Sample Course Materials", URL = "/sample_materials/", weight = 3, tag = "teach"},
+      {Name = "Syllabus", URL = "/syllabus/", weight = 4, tag = "teach"},
+      {Name = "Teaching Effectiveness", URL = "/eff_teaching/", weight = 5, tag = "teach"},
+      {Name = "Fellowships and Training", URL = "/teaching_dev/", weight = 6, tag = "teach"},
+      
+      {Name = "Research Mentees", URL = "/mentees/", weight = 1, tag = "mentor"},
+      {Name = "Mentorship Philosophy", URL = "/mentorship_philosophy/", weight = 2, tag = "mentor"},
+      {Name = "Mentor-Mentee Contract", URL = "/mentor_mentee_contract/", weight = 3, tag = "mentor"},
+      {Name = "Working with me", URL = "/working_with_me/", weight = 4, tag = "mentor"}
+ ]
+  page_to_card_tag = [
+      {Page = "Teaching Portfolio", tag="teach", class="card-columns-teach"},
+      {Page = "Teaching Statement", tag="teach", class="card-columns-teach"},
+      {Page = "Teaching Experience", tag="teach", class ="card-columns-teach"},
+      {Page = "Sample Course Materials", tag="teach", class ="card-columns-teach"},
+      {Page = "Syllabus", tag="teach", class ="card-columns-teach"},
+      {Page = "Teaching Effectiveness", tag="teach", class ="card-columns-teach"},
+      {Page = "Fellowships and Training", tag="teach", class ="card-columns-teach"},
+      
+      {Page = "Mentorship", tag="mentor", class="card-columns-mentor"},
+      {Page = "Mentorship Philosophy", tag="mentor", class="card-columns-mentor"},
+      {Page = "Research Mentees", tag="mentor", class="card-columns-mentor"},
+      {Page = "Mentor-Mentee Contract", tag="mentor", class="card-columns-mentor"},
+      {Page = "Working with me", tag = "mentor", class="card-columns-mentor"}
+ ]
+    

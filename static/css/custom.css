@@ -143,8 +143,8 @@ summary {
  * The class for card was defined in layouts/_default/single.html(lines 6-13)
  */
  
- /* Card Columns */
-.card-columns {
+ /* Card Columns for Teaching*/
+.card-columns-teach {
     display: grid;
     grid-gap: 2em;
     grid-template-columns: 1fr 1fr 1fr;
@@ -160,7 +160,8 @@ summary {
   
 }
 
-.card-columns h5 {
+
+.card-columns-teach h5 {
     display: inline-grid;
     color: #227bb9;
     margin-top: 0rem;
@@ -169,7 +170,24 @@ summary {
     margin-right: 0rem;
 }
 
+/* Card Columns for Mentorship*/
  
+.card-columns-mentor {
+    display: grid;
+    grid-gap: 2em;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 2fr;
+    text-align: center;
+}
+
+.card-columns-mentor h5 {
+    display: inline-grid;
+    color: #227bb9;
+    margin-top: 0rem;
+    margin-bottom: 0rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+}
  
  /* Basic Card width: 18rem;*/
 .card {

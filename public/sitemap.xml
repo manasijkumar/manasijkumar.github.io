@@ -10,11 +10,17 @@
   </url><url>
     <loc>/</loc>
   </url><url>
+    <loc>/mentor_mentee_contract/</loc>
+  </url><url>
     <loc>/mentorship/</loc>
+  </url><url>
+    <loc>/mentorship_philosophy/</loc>
   </url><url>
     <loc>/about/</loc>
   </url><url>
     <loc>/research/</loc>
+  </url><url>
+    <loc>/mentees/</loc>
   </url><url>
     <loc>/resources/</loc>
   </url><url>
@@ -31,5 +37,7 @@
     <loc>/teaching/</loc>
   </url><url>
     <loc>/teaching_statement/</loc>
+  </url><url>
+    <loc>/working_with_me/</loc>
   </url>
 </urlset>
