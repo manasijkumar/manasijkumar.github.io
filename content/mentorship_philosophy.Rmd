@@ -7,6 +7,9 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 #[About page](/about/) 
 # this could work to create nested pages!
+# add to config.toml if needed:
+# Name = "Mentorship Philosophy", URL = "/mentorship_philosophy/", weight = 2, tag = "mentor"},
+# {Page = "Mentorship Philosophy", tag="mentor", class="card-columns-mentor"},
 ```
 
 Coming soon!

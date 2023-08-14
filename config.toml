@@ -28,28 +28,26 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       {Name = "Teaching Statement", URL = "/teaching_statement/", weight = 1, tag = "teach"},
       {Name = "Teaching Experience", URL = "/teaching_exp/", weight = 2, tag = "teach"},
       {Name = "Sample Course Materials", URL = "/sample_materials/", weight = 3, tag = "teach"},
-      {Name = "Syllabus", URL = "/syllabus/", weight = 4, tag = "teach"},
-      {Name = "Teaching Effectiveness", URL = "/eff_teaching/", weight = 5, tag = "teach"},
-      {Name = "Fellowships and Training", URL = "/teaching_dev/", weight = 6, tag = "teach"},
+      {Name = "Sample Syllabus", URL = "/syllabus/", weight = 4, tag = "teach"},
+      {Name = "Evidence of Effective Teaching", URL = "/eff_teaching/", weight = 5, tag = "teach"},
+      {Name = "Fellowships and Development", URL = "/teaching_dev/", weight = 6, tag = "teach"},
       
       {Name = "Research Mentees", URL = "/mentees/", weight = 1, tag = "mentor"},
-      {Name = "Mentorship Philosophy", URL = "/mentorship_philosophy/", weight = 2, tag = "mentor"},
-      {Name = "Mentor-Mentee Contract", URL = "/mentor_mentee_contract/", weight = 3, tag = "mentor"},
-      {Name = "Working with me", URL = "/working_with_me/", weight = 4, tag = "mentor"}
+      {Name = "Mentor-Mentee Contract", URL = "/mentor_mentee_contract/", weight = 2, tag = "mentor"},
+      {Name = "Working with me", URL = "/working_with_me/", weight = 3, tag = "mentor"}
  ]
   page_to_card_tag = [
       {Page = "Teaching Portfolio", tag="teach", class="card-columns-teach"},
       {Page = "Teaching Statement", tag="teach", class="card-columns-teach"},
       {Page = "Teaching Experience", tag="teach", class ="card-columns-teach"},
       {Page = "Sample Course Materials", tag="teach", class ="card-columns-teach"},
-      {Page = "Syllabus", tag="teach", class ="card-columns-teach"},
-      {Page = "Teaching Effectiveness", tag="teach", class ="card-columns-teach"},
-      {Page = "Fellowships and Training", tag="teach", class ="card-columns-teach"},
+      {Page = "Sample Syllabus", tag="teach", class ="card-columns-teach"},
+      {Page = "Evidence of Effective Teaching", tag="teach", class ="card-columns-teach"},
+      {Page = "Fellowships and Development", tag="teach", class ="card-columns-teach"},
       
-      {Page = "Mentorship", tag="mentor", class="card-columns-mentor"},
-      {Page = "Mentorship Philosophy", tag="mentor", class="card-columns-mentor"},
-      {Page = "Research Mentees", tag="mentor", class="card-columns-mentor"},
-      {Page = "Mentor-Mentee Contract", tag="mentor", class="card-columns-mentor"},
-      {Page = "Working with me", tag = "mentor", class="card-columns-mentor"}
+      {Page = "Mentorship", tag="mentor", class="card-columns-teach"},
+      {Page = "Research Mentees", tag="mentor", class="card-columns-teach"},
+      {Page = "Mentor-Mentee Contract", tag="mentor", class="card-columns-teach"},
+      {Page = "Working with me", tag = "mentor", class="card-columns-teach"}
  ]
     

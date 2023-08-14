@@ -10,4 +10,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 
-Coming soon!
+<center> <embed src = "/materials/Mentor-Mentee_Contract.pdf" 
+width= 100% height= 500 type="application/pdf"> </center>
+
+---

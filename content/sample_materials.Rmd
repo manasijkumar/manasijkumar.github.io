@@ -9,30 +9,30 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 #### Contents: 
 
-- [Applied Cognition Seminar Course](#app_cog)
+- [Cognition: From Lab to Life!](#app_cog)
 - [How To's of Research Course](#how_tos)
 - [Research Methods Course](#res_med)
 
-<center> <h2 id = "app_cog"> Applied Cognition Seminar Course </h2> </center>
+<center> <h2 id = "app_cog"> Cognition: From Lab to Life! </h2> </center>
 
-The below materials are samples from my Fall 2023 seminar course titled “From lab to life: how cognition research affects everything you do!”. Students in this course are sophomore, junior, and senior undergraduates. The class meets in person, on Thursdays, for 110 minutes at Columbia University. Students learn to interpret, summarize, and communicate research in cognitive psychology and neuroscience by reading assigned empirical and review papers.
+The below materials are samples from my Fall 2023 seminar course titled “From lab to life: how cognition research affects everything you do!”. The 12 students in this course are sophomore, junior, and senior undergraduates. The class meets in person, on Thursdays, for 110 minutes at Columbia University. Students learn to interpret, summarize, and communicate research in cognitive psychology and neuroscience by reading assigned empirical and review papers.
 
 ### Participation Guidelines
 
-To create an inclusive, accessible, and supportive environment, I described explicit expectations for participation and engagement in the syllabus, including 7 different styles of participation. I also created a rubric on participation and engagement that was added as an appendix to the syllabus. To encourage students to develop their metacognitive abilities by reflecting on their own performance, I had students complete an ungraded self-reflection for participation, which I then provided feedback on.
+To create an inclusive, accessible, and supportive environment, I described explicit expectations for participation and engagement in the syllabus, including 8 different styles of participation and engagement. I also created a rubric on participation and engagement that was added as an appendix to the syllabus. To encourage students to develop their metacognitive abilities by reflecting on their own performance, I had students complete two self-reflections for their participation, which I then provided feedback on. 
 
 <center> <embed src = "/materials/Applied_Cognition_Participation_guidelines.pdf" width= 100% height= "375" type="application/pdf"> </center>
 
 
 ### Participation Rubric and Ungraded Self-Reflection
 
-In addition to making expectations explicit on the syllabus, I created a rubric describing how participation and engagement would be assessed and attached this as an appendix to my syllabus. Further, to encourage students to develop their metacognitive abilities by reflecting on their own performance, I had students complete this ungraded self-reflection about their participation in the fifth week of the semester. I then provided feedback to students so they could continue to improve their participation and engagement.
+In addition to making expectations explicit on the syllabus, I created a rubric describing how participation and engagement would be assessed and attached this as an appendix to my syllabus. Further, to encourage students to develop their metacognitive abilities by reflecting on their own performance, I had students complete two self-reflections about their participation (Week 4 and Week 9). I then provided feedback to students so they could continue to improve their participation and engagement.
 
 <center> <embed src = "/materials/Applied_Cognition_Participation_rubric.pdf" width= 100% height= "375" type="application/pdf"> </center>
 
 ### Guidelines for the final paper
 
-For the course, students had to complete a final paper that was an in-depth literature review of their topic of interest. To encourage students to take ownership of their learning, students could choose the topics for their final paper, and could decide to write one of two types of papers.  To ensure student success for those from disadvantaged backgrounds or different experiences, I scaffolded the final paper so that there were two other low-stakes checkpoints for me to guide students and provide feedback (proposal and the road map). Through these final papers, students were able to apply the knowledge and skills learned throughout the semester to their own fields of interest.
+For the course, students had to complete a final paper that was an in-depth literature review of their topic of interest. To encourage students to take ownership of their learning, students could choose the topics for their final paper, and could decide to write one of two types of papers.  To ensure student success for those from disadvantaged backgrounds or different experiences, I scaffolded the final paper so that there were three other low-stakes checkpoints for me to guide students and provide feedback (proposal, road map, and section draft). In particular, I could assess their scientific writing skills from the section draft, and provide feedback for students to produce a well-written final draft. Through these final papers, students were able to apply the knowledge and skills learned throughout the semester to their own fields of interest. 
 
 <center> <embed src = "/materials/Applied_Cognition_Final_Paper_Guidelines.pdf" width= 100% height= "375" type="application/pdf"> </center>
 
