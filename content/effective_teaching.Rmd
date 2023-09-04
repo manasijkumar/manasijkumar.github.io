@@ -145,10 +145,12 @@ In 2023, I taught 3 virtual workshops covering topics on research skills and pro
 
 | Prompt | Number of Responses | Mean | Median |
 | ----------------- | ------ | ---- | ---- |
-|“The instructor presented course material in a clear manner that facilitated understanding.”| XX | 6.80 | 7.00 |
-|“This workshop helped increase my skills and/or developed my knowledge of the subject matter.”| XX | 6.50 | 7.00 |
-|“I feel confident in my ability to implement the methods and/or concepts learned in this workshop on my own.”| XX | 6.64 | 7.00 |
-|“I enjoyed this workshop.”| XX | 6.60 | 7.00 |
+|“The instructor presented course material in a clear manner that facilitated understanding.”| 10 | 6.80 | 7.00 |
+|"The instructor's teaching methods were effective."| 10 | 6.50 | 7.00 |
+|“The pre-workshop materials (videos or readings) were effective in helping prepare me for class."| 10 | 6.70 | 7.00 |
+|“This workshop increased my knowledge of the subject matter and/or helped me increase my skills.”| 10 | 6.20 | 7.00 |
+|“I feel confident in my ability to implement the methods and/or concepts learned in this workshop on my own.”| 10 | 6.50 | 7.00 |
+|“I enjoyed this workshop.”| 10 | 6.10 | 6.50 |
 
 </details>
 
