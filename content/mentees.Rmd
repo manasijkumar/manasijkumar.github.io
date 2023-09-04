@@ -25,17 +25,18 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 ### Mentee presentations
 
-Tsegai-Moore, A.⁺, Jayakumar, M., Aly, M. (2023, July) The influence of Attentional Fluctuations on Memory. Poster presented at the Columbia University Pathways Program Symposium, New York, NY.
+**º** mentee is/was an undergraduate student <br>
+**⁺** mentee is a post-baccalaureate scholar in the Columbia University Bridge to the Ph.D. program 
 
-Nemeth, C.º, Jayakumar, M., Tsegai-Moore, A.⁺, Aly, M. (2022, October) How do attentional fluctuations during encoding influence memory? Poster presented at the Columbia Undergraduate Research Symposium, New York, NY.
 
-Tsegai-Moore, A.⁺, Jayakumar, M., Aly M. (2022, June) The Influence of Attentional Fluctuations on Memory. Talk presented at the Bridge to the Ph.D. Annual Symposium, New York, NY.
+Tsegai-Moore, A.**⁺**, Jayakumar, M., Aly, M. (2023, July) The influence of Attentional Fluctuations on Memory. Poster presented at the Columbia University Pathways Program Symposium, New York, NY.
 
-Balusu, C.º, Jayakumar, M., Aly, M., (2020, May) How Does Attentional State Influence Temporal Organization of Memory? Poster presented at the Columbia Psychology Symposium, New York, NY. <br>
+Nemeth, C.**º**, Jayakumar, M., Tsegai-Moore, A.**⁺**, Aly, M. (2022, October) How do attentional fluctuations during encoding influence memory? Poster presented at the Columbia Undergraduate Research Symposium, New York, NY.
+
+Tsegai-Moore, A.**⁺**, Jayakumar, M., Aly M. (2022, June) The Influence of Attentional Fluctuations on Memory. Talk presented at the Bridge to the Ph.D. Annual Symposium, New York, NY.
+
+Balusu, C.**º**, Jayakumar, M., Aly, M., (2020, May) How Does Attentional State Influence Temporal Organization of Memory? Poster presented at the Columbia Psychology Symposium, New York, NY. <br>
 *Placed 2nd in the best poster award competition*
-
-º mentee is/was an undergraduate student <br>
-⁺ mentee is a post-baccalaureate scholar in the Columbia University Bridge to the Ph.D. program 
 
 
 <h2> Other Mentoring and Advising </h2>

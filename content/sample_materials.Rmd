@@ -12,6 +12,7 @@ knitr::opts_chunk$set(collapse = TRUE)
 - [Cognition: From Lab to Life!](#app_cog)
 - [How To's of Research Course](#how_tos)
 - [Research Methods Course](#res_med)
+- [SIPPS Workshop Materials](#sipps-2023)
 
 <center> <h2 id = "app_cog"> Cognition: From Lab to Life! </h2> </center>
 
@@ -84,4 +85,36 @@ In the Research Methods course, students propose a study or an experiment on the
 
 ---
 
+<center> <h2 id = "sipps-2023"> SIPPS Workshop Materials </h2> </center>
+
+
+
+Below, you can find materials from my SIPPS workshops in 2023. We adapted our SIPPS curriculum to a flipped classroom approach: students watched short pre-workshop videos and engaged in hands-on activities during the workshop sessions. 
+
+
+### Research Skills
+
+- How to read a paper:
+    - Pre-workshop materials: [video](https://youtu.be/XKrSwonwLL0){target="_blank"} | [slides](/materials/sipps/AcademicPaper-pre-workshop_slides.pdf){target="_blank"} | [Lit Review Table](/materials/sipps/AcademicPaper-LitReview_Table.xlsx){target="_blank"} | [QualMRI Handout](/materials/sipps/AcademicPaper-QuALMRI_Handout.pdf){target="_blank"} | [QualMRI Template](/materials/sipps/AcademicPaper-QuALMRI_Template.docx){target="_blank"}
+    - Synchronous Workshop materials: [slides](/materials/sipps/AcademicPaper-sync_workshop_slides.pdf){target="_blank"} | [Paper 1](/materials/sipps/AcademicPaper-ChapmanColbyLi2014.pdf){target="_blank"} | [Paper 2](/materials/sipps/AcademicPaper-Godden1975.pdf){target="_blank"}
+
+
+- Research Ethics:
+    - Pre-workshop materials: [video](https://youtu.be/b1WcZ6G9Uls){target="_blank"} | [slides](/materials/sipps/ResearchEthics-pre-workshop_slides.pdf){target="_blank"}
+    - Synchronous Workshop materials: [slides](/materials/sipps/ResearchEthics-sync_workshop_slides.pdf){target="_blank"} | [IRB Response Sheet](/materials/sipps/ResearchEthics-IRBResponseSheet.docx){target="_blank"} | [Application Under Review](/materials/sipps/ResearchEthics-application_under_review.pdf){target="_blank"} | [Approved Application for reference](/materials/sipps/ResearchEthics-approved-application.pdf){target="_blank"}
+
+### Professional Development 
+
+- CVs and Resumes:
+    - Pre-workshop materials: [video](https://youtu.be/anRwuA0RIac){target="_blank"} | [slides](/materials/sipps/CVResume-slides.pdf){target="_blank"}
+    - Synchronous Workshop materials: [CV - SIPPS template](/materials/sipps/CV_template_SIPPS.docx){target="_blank"}
+
+### R programming
+
+- Introduction to Linear Models:
+    - Pre-workshop materials: [Overview of linear regression video](https://youtu.be/_uR9RcC2t5U){target="_blank"} | [slides](/materials/sipps/IntroLM-workshop_slides.pdf){target="_blank"} | [Linear Regression R tutorial video](https://youtu.be/M5ejllMuNKw){target="_blank"} |  [RMarkdown Lesson File](/materials/sipps/IntroLM-lesson.Rmd){target="_blank"} | [RMarkdown Lesson with Key](/materials/sipps/IntroLM-lesson-key.Rmd){target="_blank"} | [R Project file](/materials/sipps/IntroLM.Rproj){target="_blank"}
+
+
+
+---
 

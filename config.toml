@@ -29,7 +29,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
       {Name = "Teaching Experience", URL = "/teaching_exp/", weight = 2, tag = "teach"},
       {Name = "Sample Course Materials", URL = "/sample_materials/", weight = 3, tag = "teach"},
       {Name = "Sample Syllabus", URL = "/syllabus/", weight = 4, tag = "teach"},
-      {Name = "Evidence of Effective Teaching", URL = "/eff_teaching/", weight = 5, tag = "teach"},
+      {Name = "Evidence of Effective Teaching", URL = "/effective_teaching/", weight = 5, tag = "teach"},
       {Name = "Fellowships and Development", URL = "/teaching_dev/", weight = 6, tag = "teach"},
       
       {Name = "Research Mentees", URL = "/mentees/", weight = 1, tag = "mentor"},
