@@ -6,7 +6,7 @@ title: Teaching Statement
 knitr::opts_chunk$set(collapse = TRUE)
 ```
 
-
-Coming Soon! 
+<center> <embed src = "/materials/Jayakumar_TeachingStatement.pdf" 
+width= 100% height= 500 type="application/pdf"> </center>
 
 ---

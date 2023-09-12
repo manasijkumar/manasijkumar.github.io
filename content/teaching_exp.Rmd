@@ -15,6 +15,18 @@ knitr::opts_chunk$set(collapse = TRUE)
 
 <center> <h2 id = "CU-courses"> Courses at Columbia University </h2> </center>
 
+### Cognition: From lab to life! 
+**Instructor of Record, Fall 2023**
+
+- 12-student upper-level undergraduate psychology seminar, in-person
+- Designed the syllabus and curriculum for the course
+- Applied and appointed as a Teaching Scholar for the Psychology Department, thus being the Instructor of Record for this class (only 25 students in the Graduate School of Arts and Sciences are appointed to this position)
+- Instruct students and facilitate discussions on how cognition research can be applied to real-world situations
+- Assess students’ preparation, engagement, presentation skills, and writing skills using self-created rubrics
+- Provide feedback for engagement, presentations, and the scaffolded assignments for the final paper
+- Official evaluations will be conducted at the end of the semester
+
+
 ### How-To's of Research 
 **Co-Instructor, Spring 2023**
 
