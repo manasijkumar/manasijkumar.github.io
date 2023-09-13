@@ -4,7 +4,9 @@ title: Manasi Jayakumar, M.Phil.
 
 {{< figure src="/Jayakumar_Manasi_Headshot.jpg" class="portrait">}}
 
-I am a Ph.D. Candidate in the Department of Psychology at Columbia University. In my dissertation research, I examine fluctuations of attention in humans and the influence of these fluctuations on episodic memory organization.
+Broadly, I am interested in examining how internal mental states during an experience can influence memory organization and retrieval, and how these processes differ in individuals with attentional deficits. I use lab-based behavioral studies, eye-tracking, pupilometry, and computational modeling, in addition to online behavioral studies to explore these questions.
+
+I am currently a Ph.D. Candidate with Dr. Mariam Aly in the Department of Psychology at Columbia University examining the relationship between spontaneous attentional fluctuations and temporal organization of episodic memory.
 
 
 ### How did I get here? ### 

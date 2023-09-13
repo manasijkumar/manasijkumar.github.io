@@ -7,7 +7,8 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 
-My current research focuses on how naturalistic fluctuations in attention can be characterized and how these fluctuations in attention influence the temporal organization of memory.
+My doctoral dissertation focuses on how endogenous fluctuations in attention can be characterized and how these fluctuations in attention influence the temporal organization of memory.
+
 
 ---
 
