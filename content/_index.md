@@ -2,7 +2,7 @@
 title: Manasi Jayakumar, Ph.D.
 ---
 
-{{< figure src="/Jayakumar_Manasi_Headshot.jpg" class="portrait">}}
+{{< figure src="images/headshot.jpg" class="portrait">}}
 
 I am an Assistant Professor of Psychology at Oberlin College.
 
