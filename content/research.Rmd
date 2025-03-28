@@ -7,8 +7,10 @@ knitr::opts_chunk$set(collapse = TRUE)
 ```
 
 ---
+
 ## Pre-Prints
 
+**Jayakumar, M.**, Tsegai-Moore, A., Nemeth, C., Aly, M., (2024). Pupil size at encoding predicts the temporal structure of memory. [PsyArXiv](https://osf.io/preprints/psyarxiv/bzqfu){target="_blank"}.
 
 ---
 
@@ -31,12 +33,22 @@ Trelle, A. N., Carr, V. A., Guerin, S. A., Thieu, M. K., **Jayakumar, M.**, Guo,
 
 ## Dissertation
 
-My doctoral dissertation examined how endogenous fluctuations in attention can be characterized and how these fluctuations in attention influence the temporal organization of memory.
+Attentional Fluctuations and the Temporal Organization of Memory: Insights From Behavioral and Pupillometry Measures
+[[Proquest](https://www.proquest.com/openview/bc2e3b70527203c46192df64002de87e/1?cbl=18750&diss=y&pq-origsite=gscholar){target="_blank"}].
+[[PDF](/pubs/Jayakumar_Dissertation_2024.pdf){target="_blank"}].
+
 
 ---
 
 ## Selected Conference Presentations
 For a complete list of conference presentations, please see my CV from the sidebar! 
+
+**Jayakumar, M.**, Tsegai-Moore, A.S., Nemeth, C., Aly, M.. (2024, June). Pupil Size at Encoding Predicts Temporal
+Organization of Memory. Talk presented at the Manhattan Area Memory Meeting, New Haven, CT.
+
+**Jayakumar, M.**, Tsegai-Moore, A.S., Nemeth, C., Khine M.T.o, Aly, M. (2023, November). Pupil-based Measures of
+Attention and the Temporal Organization of Recall. Poster presented at the Psychonomic Society’s 64th Annual
+Meeting, San Francisco, CA.[[PDF](/pubs/Jayakumar_M_Psychonomics2023-poster.pdf){target="_blank"}].
 
 **Jayakumar, M.**, Balusu, C., Aly, M. (2021, August). Spontaneous attentional fluctuations and the temporal organization of recall. Poster presented at the Context and Episodic Memory Symposium, Philadelphia, PA. [[PDF](/pubs/Jayakumar_M_CEMS2021-poster.pdf){target="_blank"}].
 
