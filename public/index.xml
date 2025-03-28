@@ -1,161 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Manasi Jayakumar, M.Phil. on Manasi Jayakumar</title>
+    <title>Manasi Jayakumar, Ph.D. on Manasi Jayakumar</title>
     <link>/</link>
-    <description>Recent content in Manasi Jayakumar, M.Phil. on Manasi Jayakumar</description>
+    <description>Recent content in Manasi Jayakumar, Ph.D. on Manasi Jayakumar</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evidence of Effective Teaching</title>
       <link>/effective_teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/effective_teaching/</guid>
-      <description>Contents:Summary of Course EvaluationsTestimonials from StudentsWorkshop EvaluationsTeaching Observations in CoursesSample Mid-Course SurveySummary of Course EvaluationsCourse evaluations in the Department of Psychology at Columbia University use a 5-point scale. Students are asked to rate the overall teaching effectiveness of the instructor on a scale of 1 to 5 (1 = Poor, 2 = Fair, 3 = Good, 4 = Very Good, 5 = Excellent).</description>
+      <description>Contents:&#xD;Summary of Course Evaluations&#xD;Testimonials from Students&#xD;Workshop Evaluations&#xD;Teaching Observations in Courses&#xD;Sample Mid-Course Survey&#xD;Summary of Course Evaluations&#xD;Course evaluations in the Department of Psychology at Columbia University use a 5-point scale. Students are asked to rate the overall teaching effectiveness of the instructor on a scale of 1 to 5 (1 = Poor, 2 = Fair, 3 = Good, 4 = Very Good, 5 = Excellent).</description>
     </item>
-    
     <item>
       <title>Fellowships and Development</title>
       <link>/teaching_dev/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/teaching_dev/</guid>
-      <description>Contents:Teaching FellowshipsAwardsPedagogical DevelopmentFellowshipsTeaching Scholar, Graduate School of Arts and Sciences, Columbia University2023-2024
-Appointed by the Department of Psychology and the Dean of GSAS to teach a course in the academic year (less than 25 scholars are appointed every year)Only student nominated by the Department of Psychology for this academic year based on my record as a researcher and future promise as an educatorDesigned a seminar course titled “From lab to life: How cognition research affects everything you do!</description>
+      <description>Contents:&#xD;Teaching Fellowships&#xD;Awards&#xD;Pedagogical Development&#xD;Fellowships&#xD;Teaching Scholar, Graduate School of Arts and Sciences, Columbia University&#xD;2023-2024&#xA;Appointed by the Department of Psychology and the Dean of GSAS to teach a course in the academic year (less than 25 scholars are appointed every year)&#xD;Only student nominated by the Department of Psychology for this academic year based on my record as a researcher and future promise as an educator&#xD;Designed a seminar course titled “From lab to life: How cognition research affects everything you do!</description>
     </item>
-    
     <item>
       <title>Mentor-Mentee Contract</title>
       <link>/mentor_mentee_contract/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/mentor_mentee_contract/</guid>
-      <description></description>
+      <description>&#xD;</description>
     </item>
-    
     <item>
       <title>Mentorship</title>
       <link>/mentorship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/mentorship/</guid>
-      <description>Mission StatementI am committed to inclusive mentoring and mentorship practices. Over the years, I’ve had the privilege of mentoring trainees from diverse backgrounds. Recognizing that each mentee carries their unique life experiences, skill sets, and career aspirations, I ensure a personalized approach to mentorship. At the beginning of a mentoring relationship, my mentee and I draft a mentorship contract  , which explicitly outlines our shared goals and expectations.</description>
+      <description>Mission Statement&#xD;I am committed to inclusive mentoring and mentorship practices. Over the years, I’ve had the privilege of mentoring trainees from diverse backgrounds. Recognizing that each mentee carries their unique life experiences, skill sets, and career aspirations, I ensure a personalized approach to mentorship. At the beginning of a mentoring relationship, my mentee and I draft a mentorship contract , which explicitly outlines our shared goals and expectations. This living document is revisited and updated either at the start of each semester or every 6 months, serving as a guideline for our progress and our changing expectations.</description>
     </item>
-    
     <item>
       <title>Mentorship Philosophy</title>
       <link>/mentorship_philosophy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/mentorship_philosophy/</guid>
       <description>Coming soon!</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/about/</guid>
-      <description></description>
+      <description>&#xD;</description>
     </item>
-    
     <item>
       <title>Research</title>
       <link>/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/research/</guid>
-      <description>My doctoral dissertation focuses on how endogenous fluctuations in attention can be characterized and how these fluctuations in attention influence the temporal organization of memory.
-PublicationsJayakumar, M., Balusu, C., Aly, M. (2023). Attentional fluctuations and the temporal organization of memory. Cognition, 235, 105408. https://doi.org/10.1016/j.cognition.2023.105408. [PDF]. [PsyArXiv]. [OSF]. [self-contained Code Ocean computing enviornment].
-Trelle, A. N., Carr, V. A., Wilson, E. N., Swarovski, M. S., Hunt, M. P., Toueg, T.</description>
+      <description>My doctoral dissertation focuses on how endogenous fluctuations in attention can be characterized and how these fluctuations in attention influence the temporal organization of memory.&#xA;Publications&#xD;Jayakumar, M., Balusu, C., Aly, M. (2023). Attentional fluctuations and the temporal organization of memory. Cognition, 235, 105408. https://doi.org/10.1016/j.cognition.2023.105408. [PDF]. [PsyArXiv]. [OSF]. [self-contained Code Ocean computing enviornment].&#xA;Trelle, A. N., Carr, V. A., Wilson, E. N., Swarovski, M. S., Hunt, M. P., Toueg, T.</description>
     </item>
-    
     <item>
       <title>Research Mentees</title>
       <link>/mentees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/mentees/</guid>
-      <description>Research Mentees2022-present: Cecilia Nemeth, Undergraduate Research Assistant, Columbia University2021-2023: Aria Tsegai-Moore, Post-baccalaureate scholar, Columbia University2021-2023: Moe Khine, Undergraduate Research Assistant, Columbia University2019-2022: Chinmayi Balusu, Undergraduate Research Assistant, Columbia UniversityMentee presentationsº mentee is/was an undergraduate student ⁺ mentee is a post-baccalaureate scholar in the Columbia University Bridge to the Ph.D. program
-Tsegai-Moore, A.⁺, Jayakumar, M.</description>
+      <description>Research Mentees&#xD;2022-present: Cecilia Nemeth, Undergraduate Research Assistant, Columbia University&#xD;2021-2023: Aria Tsegai-Moore, Post-baccalaureate scholar, Columbia University&#xD;2021-2023: Moe Khine, Undergraduate Research Assistant, Columbia University&#xD;2019-2022: Chinmayi Balusu, Undergraduate Research Assistant, Columbia University&#xD;Mentee presentations&#xD;º mentee is/was an undergraduate student ⁺ mentee is a post-baccalaureate scholar in the Columbia University Bridge to the Ph.D. program&#xA;Tsegai-Moore, A.⁺, Jayakumar, M., Aly, M. (2023, July) The influence of Attentional Fluctuations on Memory.</description>
     </item>
-    
     <item>
       <title>Resources</title>
       <link>/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/resources/</guid>
-      <description>Click the arrows below to expand for resources!
-Programming, Statistics, and MethodsProgramming tutorialsColumbia Psychology Scientific ComputingColumbia Foundations for Research ComputingSIPPS coding workshopsData analysis and visualization for ecologistsProgramming in Psychological Sciences courseR for data scienceUnix ShellGitVersion control with GitGit with R studioStatisticsMixed-effects ModelingBayesian statistics with RNeuroimaging AnalysisAFNI BootcampAndy’s Brain BookEyetracking and pupilometryBasic preprocessing of pupil dataGaze R: Github | Paper| Pre-print | Video tutorialPyGazeWebgazerOtherReinforcement Learning resource guideResearch Skills and ToolsResearch Skills &amp;amp; ToolsSIPPS workshops on research skillsSIPPS workshops on professional developmentPurdue OWL APA 7 guideHow to undertake a literature reviewConnected papersResearch rabbitOther lists of listsList of tools and resources for your PhD (also links to other curated links!</description>
+      <description>Click the arrows below to expand for resources!&#xA;Programming, Statistics, and Methods&#xD;Programming tutorials&#xD;Columbia Psychology Scientific Computing&#xD;Columbia Foundations for Research Computing&#xD;SIPPS coding workshops&#xD;Data analysis and visualization for ecologists&#xD;Programming in Psychological Sciences course&#xD;R for data science&#xD;Unix Shell&#xD;Git&#xD;Version control with Git&#xD;Git with R studio&#xD;Statistics&#xD;Mixed-effects Modeling&#xD;Bayesian statistics with R&#xD;Neuroimaging Analysis&#xD;AFNI Bootcamp&#xD;Andy’s Brain Book&#xD;Eyetracking and pupilometry&#xD;Basic preprocessing of pupil data&#xD;Gaze R: Github | Paper| Pre-print | Video tutorial&#xD;PyGaze&#xD;Webgazer&#xD;Other&#xD;Reinforcement Learning resource guide&#xD;Research Skills and Tools&#xD;Research Skills &amp;amp; Tools&#xD;SIPPS workshops on research skills&#xD;SIPPS workshops on professional development&#xD;Purdue OWL APA 7 guide&#xD;How to undertake a literature review&#xD;Connected papers&#xD;Research rabbit&#xD;Other lists of lists&#xD;List of tools and resources for your PhD (also links to other curated links!</description>
     </item>
-    
     <item>
       <title>Sample Course Materials</title>
       <link>/sample_materials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/sample_materials/</guid>
-      <description>Contents:Cognition: From Lab to Life!How To’s of Research CourseResearch Methods CourseSIPPS Workshop MaterialsCognition: From Lab to Life!The below materials are samples from my Fall 2023 seminar course titled “From lab to life: how cognition research affects everything you do!”. The 12 students in this course are junior and senior undergraduates, who are psychology majors. The class meets in person, on Thursdays, for 110 minutes at Columbia University.</description>
+      <description>Contents:&#xD;Cognition: From Lab to Life!&#xD;How To’s of Research Course&#xD;Research Methods Course&#xD;SIPPS Workshop Materials&#xD;Cognition: From Lab to Life!&#xD;The below materials are samples from my Fall 2023 seminar course titled “From lab to life: how cognition research affects everything you do!”. The 12 students in this course are junior and senior undergraduates, who are psychology majors. The class meets in person, on Thursdays, for 110 minutes at Columbia University.</description>
     </item>
-    
     <item>
       <title>Sample Syllabus</title>
       <link>/syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/syllabus/</guid>
-      <description></description>
+      <description>&#xD;</description>
     </item>
-    
     <item>
       <title>Teaching</title>
       <link>/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/publications/</guid>
-      <description></description>
+      <description>&#xD;</description>
     </item>
-    
     <item>
       <title>Teaching Experience</title>
       <link>/teaching_exp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/teaching_exp/</guid>
-      <description>Contents:Courses at Columbia UniversityWorkshops at Columbia UniversityPrior Teaching ExperienceCourses at Columbia UniversityCognition: From lab to life!Instructor of Record, Fall 2023
-12-student upper-level undergraduate psychology seminar, in-personDesigned the syllabus and curriculum for the courseApplied and appointed as a Teaching Scholar for the Psychology Department, thus being the Instructor of Record for this class (only 25 students in the Graduate School of Arts and Sciences are appointed to this position)Instruct students and facilitate discussions on how cognition research can be applied to real-world situationsAssess students’ preparation, engagement, presentation skills, and writing skills using self-created rubricsProvide feedback for engagement, presentations, and the scaffolded assignments for the final paperOfficial evaluations will be conducted at the end of the semesterHow-To’s of ResearchCo-Instructor, Spring 2023</description>
+      <description>Contents:&#xD;Courses at Columbia University&#xD;Workshops at Columbia University&#xD;Prior Teaching Experience&#xD;Courses at Columbia University&#xD;Cognition: From lab to life!&#xD;Instructor of Record, Fall 2023&#xA;12-student upper-level undergraduate psychology seminar, in-person&#xD;Designed the syllabus and curriculum for the course&#xD;Applied and appointed as a Teaching Scholar for the Psychology Department, thus being the Instructor of Record for this class (only 25 students in the Graduate School of Arts and Sciences are appointed to this position)&#xD;Instruct students and facilitate discussions on how cognition research can be applied to real-world situations&#xD;Assess students’ preparation, engagement, presentation skills, and writing skills using self-created rubrics&#xD;Provide feedback for engagement, presentations, and the scaffolded assignments for the final paper&#xD;Official evaluations will be conducted at the end of the semester&#xD;How-To’s of Research&#xD;Co-Instructor, Spring 2023</description>
     </item>
-    
     <item>
       <title>Teaching Portfolio</title>
       <link>/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/teaching/</guid>
-      <description>Mission StatementIn this age of easy access to misinformation, scientific literacy is essential for students to understand the world and to critically evaluate and validate any information they are presented with. My mission as an educator is to prepare students to be independent and critical thinkers, who are scientifically literate and able to apply their knowledge to their fields of interest.
-To accomplish this, I create an inclusive and supportive learning environment by making expectations as explicit as possible, which allows students to push their boundaries and explore their interests.</description>
+      <description>Mission Statement&#xD;In this age of easy access to misinformation, scientific literacy is essential for students to understand the world and to critically evaluate and validate any information they are presented with. My mission as an educator is to prepare students to be independent and critical thinkers, who are scientifically literate and able to apply their knowledge to their fields of interest.&#xA;To accomplish this, I create an inclusive and supportive learning environment by making expectations as explicit as possible, which allows students to push their boundaries and explore their interests.</description>
     </item>
-    
     <item>
       <title>Teaching Statement</title>
       <link>/teaching_statement/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/teaching_statement/</guid>
-      <description></description>
+      <description>&#xD;</description>
     </item>
-    
     <item>
       <title>Working with me</title>
       <link>/working_with_me/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/working_with_me/</guid>
       <description>Coming soon!</description>
     </item>
-    
   </channel>
 </rss>
